@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/catalog/layout,_N_T_/admin/catalog/categorii/layout,_N_T_/admin/catalog/categorii/nou/layout,_N_T_/admin/catalog/categorii/nou/page,_N_T_/admin/catalog/categorii/nou"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/0651e7b79d667271702e73bce77ff50cbf14ad6e82c3a0081472f6c6e8ebc3ca/$/admin/catalog/categorii/nou",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/admin/catalog/categorii/nou/page"
+    },
+    "isFallback": false
+  }
+}

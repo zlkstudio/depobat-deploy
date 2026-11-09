@@ -1,0 +1,16 @@
+Depobat.ro — pachet gata compilat pentru cPanel → Setup Node.js App
+
+Fișier de pornire (Application startup file): app.js
+Versiune Node.js: 22.13 sau mai nouă (22.x / 24.x)
+NU apăsați „Run NPM Install” — dependențele sunt deja incluse în folderul server/.
+
+Variabile de mediu:
+  DATABASE_PATH   = /home/depobat/depobat-data/depobat.db
+  ADMIN_USER      = admin
+  ADMIN_PASSWORD  = (parola de admin)
+  NOTIFY_EMAIL    = sales@depobat.ro
+  MAIL_FROM       = Depobat Website <noreply@depobat.ro>
+  WHATSAPP_NUMBER = 407xxxxxxxx
+
+Actualizare: înlocuiți folderul server/ cu cel din pachetul nou, apoi Restart din Setup Node.js App.
+Erori la pornire: fișierul stderr.log din acest folder.

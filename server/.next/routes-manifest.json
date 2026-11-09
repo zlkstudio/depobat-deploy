@@ -1,0 +1,229 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/:path*",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        }
+      ],
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+    }
+  ],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/admin/catalog/categorii/[slug]",
+      "regex": "^/admin/catalog/categorii/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/admin/catalog/categorii/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/admin/catalog/produse/[id]",
+      "regex": "^/admin/catalog/produse/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/admin/catalog/produse/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/api/admin/categories/[slug]",
+      "regex": "^/api/admin/categories/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/api/admin/categories/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/api/admin/products/[id]",
+      "regex": "^/api/admin/products/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/api/admin/products/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/api/admin/submissions/[id]",
+      "regex": "^/api/admin/submissions/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/api/admin/submissions/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/media/[file]",
+      "regex": "^/media/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPfile": "nxtPfile"
+      },
+      "namedRegex": "^/media/(?<nxtPfile>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[categorie]",
+      "regex": "^/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategorie": "nxtPcategorie"
+      },
+      "namedRegex": "^/(?<nxtPcategorie>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[categorie]/[produs]",
+      "regex": "^/([^/]+?)/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategorie": "nxtPcategorie",
+        "nxtPprodus": "nxtPprodus"
+      },
+      "namedRegex": "^/(?<nxtPcategorie>[^/]+?)/(?<nxtPprodus>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/[categorie]/[produs]/fisa-tehnica",
+      "regex": "^/([^/]+?)/([^/]+?)/fisa\\-tehnica(?:/)?$",
+      "routeKeys": {
+        "nxtPcategorie": "nxtPcategorie",
+        "nxtPprodus": "nxtPprodus"
+      },
+      "namedRegex": "^/(?<nxtPcategorie>[^/]+?)/(?<nxtPprodus>[^/]+?)/fisa\\-tehnica(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/admin",
+      "regex": "^/admin(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin(?:/)?$"
+    },
+    {
+      "page": "/admin/catalog",
+      "regex": "^/admin/catalog(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/catalog(?:/)?$"
+    },
+    {
+      "page": "/admin/catalog/categorii/nou",
+      "regex": "^/admin/catalog/categorii/nou(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/catalog/categorii/nou(?:/)?$"
+    },
+    {
+      "page": "/admin/catalog/produse/nou",
+      "regex": "^/admin/catalog/produse/nou(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/catalog/produse/nou(?:/)?$"
+    },
+    {
+      "page": "/apple-icon.png",
+      "regex": "^/apple\\-icon\\.png(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/apple\\-icon\\.png(?:/)?$"
+    },
+    {
+      "page": "/contact",
+      "regex": "^/contact(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact(?:/)?$"
+    },
+    {
+      "page": "/despre-depobat",
+      "regex": "^/despre\\-depobat(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/despre\\-depobat(?:/)?$"
+    },
+    {
+      "page": "/distributie-b2b",
+      "regex": "^/distributie\\-b2b(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/distributie\\-b2b(?:/)?$"
+    },
+    {
+      "page": "/icon.png",
+      "regex": "^/icon\\.png(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/icon\\.png(?:/)?$"
+    },
+    {
+      "page": "/politica-de-confidentialitate",
+      "regex": "^/politica\\-de\\-confidentialitate(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/politica\\-de\\-confidentialitate(?:/)?$"
+    },
+    {
+      "page": "/robots.txt",
+      "regex": "^/robots\\.txt(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/robots\\.txt(?:/)?$"
+    },
+    {
+      "page": "/sitemap.xml",
+      "regex": "^/sitemap\\.xml(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sitemap\\.xml(?:/)?$"
+    },
+    {
+      "page": "/termeni-si-conditii",
+      "regex": "^/termeni\\-si\\-conditii(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/termeni\\-si\\-conditii(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

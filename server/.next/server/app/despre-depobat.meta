@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(site)/layout,_N_T_/(site)/despre-depobat/layout,_N_T_/(site)/despre-depobat/page,_N_T_/despre-depobat"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/e0b1bf37b93e1e4fd983454bb13d6c77acb68f27e52e171025b3464d646242e0/$/despre-depobat",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(site)/despre-depobat/page"
+    },
+    "isFallback": false
+  }
+}

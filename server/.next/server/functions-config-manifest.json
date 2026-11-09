@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "functions": {
+    "/[categorie]/[produs]/fisa-tehnica": {},
+    "/api/admin/categories/[slug]": {},
+    "/api/admin/categories": {},
+    "/api/admin/export": {},
+    "/api/admin/products/[id]": {},
+    "/api/admin/products/bulk": {},
+    "/api/admin/products": {},
+    "/api/admin/submissions/[id]": {},
+    "/api/submissions": {},
+    "/media/[file]": {},
+    "/api/admin/uploads": {}
+  }
+}

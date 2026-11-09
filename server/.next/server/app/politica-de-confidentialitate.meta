@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(site)/layout,_N_T_/(site)/politica-de-confidentialitate/layout,_N_T_/(site)/politica-de-confidentialitate/page,_N_T_/politica-de-confidentialitate"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/09b349e4b048197b0d697164639f21341e8fed4e4edee5ad9676950df4b00981/$/politica-de-confidentialitate",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(site)/politica-de-confidentialitate/page"
+    },
+    "isFallback": false
+  }
+}

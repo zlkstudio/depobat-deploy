@@ -1,0 +1,9 @@
+{
+  "name": "depobat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Depobat.ro — Next.js server (prebuilt). Startup file: app.js",
+  "main": "app.js",
+  "engines": { "node": ">=22.13" },
+  "scripts": { "start": "node app.js" }
+}
