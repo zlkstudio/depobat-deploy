@@ -3,14 +3,14 @@
   "functions": {
     "/[categorie]/[produs]/fisa-tehnica": {},
     "/api/admin/categories/[slug]": {},
-    "/api/admin/categories": {},
     "/api/admin/export": {},
     "/api/admin/products/[id]": {},
     "/api/admin/products/bulk": {},
     "/api/admin/products": {},
     "/api/admin/submissions/[id]": {},
+    "/api/admin/uploads": {},
     "/api/submissions": {},
     "/media/[file]": {},
-    "/api/admin/uploads": {}
+    "/api/admin/categories": {}
   }
 }
