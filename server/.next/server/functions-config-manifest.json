@@ -2,15 +2,15 @@
   "version": 1,
   "functions": {
     "/[categorie]/[produs]/fisa-tehnica": {},
-    "/api/admin/categories/[slug]": {},
     "/api/admin/categories": {},
-    "/api/admin/export": {},
     "/api/admin/products/[id]": {},
-    "/api/admin/products/bulk": {},
-    "/api/admin/submissions/[id]": {},
-    "/api/admin/products": {},
+    "/api/admin/export": {},
     "/api/admin/uploads": {},
-    "/api/submissions": {},
-    "/media/[file]": {}
+    "/api/admin/products/bulk": {},
+    "/api/admin/products": {},
+    "/api/admin/categories/[slug]": {},
+    "/api/admin/submissions/[id]": {},
+    "/media/[file]": {},
+    "/api/submissions": {}
   }
 }

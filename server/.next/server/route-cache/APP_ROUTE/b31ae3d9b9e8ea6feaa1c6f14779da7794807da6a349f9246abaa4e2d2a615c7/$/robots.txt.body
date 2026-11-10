@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /admin
-Disallow: /api/
-
-Host: https://depobat.ro
-Sitemap: https://depobat.ro/sitemap.xml
