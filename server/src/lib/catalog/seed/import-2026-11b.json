@@ -1,0 +1,6608 @@
+[
+ {
+  "sku": "S6-EH1P-3-10K-L-PLUS",
+  "slug": "solis-s6-eh1p-3-10-k-l-plus",
+  "name": "Solis S6-EH1P(3-10)K-L-PLUS",
+  "brand": "solis",
+  "category": "invertoare",
+  "subtitle": "Hibrid monofazat · baterie 48 V · 3–10 kW",
+  "image": "/images/products/solis-eh1p-l-plus.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "3 – 10 kW"
+   },
+   {
+    "label": "MPPT",
+    "value": "2"
+   },
+   {
+    "label": "Backup",
+    "value": "< 10 ms"
+   }
+  ],
+  "features": [
+   "Intrare PV generoasă",
+   "Curent PV mare la 9K și 10K",
+   "Backup fără întrerupere"
+  ],
+  "tags": [
+   "hibrid",
+   "monofazat",
+   "low-voltage",
+   "rezidential"
+  ],
+  "powerW": 10000,
+  "phases": 1,
+  "details": {
+   "seoTitle": "Solis S6-EH1P(3-10)K-L-PLUS — Hibrid monofazat",
+   "seoDescription": "Invertor hibrid monofazat pentru baterii de 40 – 60 V, cu 2 MPPT, backup în sub 10 ms, ecran de 7 inch și protecție IP66.",
+   "headline": "Invertor hibrid monofazat pentru baterii de 40 – 60 V, cu 2 MPPT, backup în sub 10 ms, ecran de 7 inch și protecție IP66.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "3 – 10 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Monofazat 230 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "40 – 60 V, Li-ion / Pb"
+    },
+    {
+     "label": "MPPT",
+     "value": "2"
+    },
+    {
+     "label": "Comutare backup",
+     "value": "< 10 ms"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP66"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Intrare PV generoasă",
+     "text": "Putere PV utilizabilă de până la 160% din puterea nominală, iar câmpul recomandat este de până la 200%."
+    },
+    {
+     "title": "Curent PV mare la 9K și 10K",
+     "text": "Până la 21 A per intrare, pentru panouri de putere mai mare."
+    },
+    {
+     "title": "Backup fără întrerupere",
+     "text": "Comutare în sub 10 ms (sub 20 ms într-un sistem paralel cu până la 6 invertoare)."
+    },
+    {
+     "title": "Pornirea motoarelor",
+     "text": "Suprasarcină de 200% timp de 10 s în regim off-grid (pompe, aer condiționat)."
+    },
+    {
+     "title": "Interval larg de baterii",
+     "text": "40 – 60 V, litiu-ion sau plumb-acid, cu comunicare CAN / RS485 cu BMS-ul bateriei."
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 6 unități în paralel."
+    },
+    {
+     "title": "Generator",
+     "text": "Conectare și pornire automată a generatorului, cu management inteligent al sarcinilor."
+    },
+    {
+     "title": "Cuplare AC",
+     "text": "Funcționează și cu instalații fotovoltaice existente conectate la rețea, pentru controlul injecției și utilizare off-grid."
+    },
+    {
+     "title": "Funcționare off-grid doar cu PV",
+     "text": "Fără baterie, în configurații care reduc costul inițial"
+    },
+    {
+     "title": "Nivel de backup reglabil al bateriei",
+     "text": ""
+    },
+    {
+     "title": "Monitorizare",
+     "text": "Ecran LCD industrial de 7 inch, Wi-Fi, LAN și Bluetooth integrate, aplicația și platforma SolisCloud."
+    },
+    {
+     "title": "IP66 și funcționare de la −25 la +60 °C",
+     "text": ""
+    }
+   ],
+   "description": [
+    "Seria Solarator S6-EH1P-L-PLUS de la Solis (Ginlong Technologies) cuprinde invertoare hibride monofazate de 3 până la 10 kW, pentru baterii de joasă tensiune (litiu-ion sau plumb-acid). Gestionează panourile fotovoltaice, bateria, rețeaua și un generator, iar la pierderea rețelei trece în regim de backup în sub 10 ms. Se oferă în 8 puteri: 3, 3.6, 4.6, 5, 6 și 8 kW (S6-EH1P(3-8)K-L-PLUS), plus 9 și 10 kW cu intrări PV de 21 A (S6-EH1P(9-10)K-L-PLUS(21A))."
+   ],
+   "sections": [
+    {
+     "title": "Protecții integrate",
+     "paragraphs": [
+      "Protecție la supratensiune, la supracurent la ieșire, monitorizarea rezistenței de izolație, detectarea curentului rezidual, întrerupător PV integrat, protecție la polaritate inversă DC (numai PV), protecție anti-insularizare. AFCI 2.0 (protecție la arc electric) este opțional. Clasa de protecție I, categoria de supratensiune II (PV și baterie) și III (rețea, backup, generator)."
+     ]
+    },
+    {
+     "title": "Standarde declarate de producător",
+     "bullets": [
+      "Conectare la rețea: NRS 097-2-1, IEC 62116, IEC 61727, IEC 60068, IEC 61683, EN 50530, EN 50549-1, MEA, PEA, NBR 16149, NBR 16150, G98, G99, CEI 0-21, NTS 631 tip A.",
+      "Siguranță și EMC: IEC/EN 62109-1/-2, EN 61000-6-2/-3."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / nominală / de pornire",
+       "value": "500 V / 330 V / 90 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "90 – 435 V"
+      },
+      {
+       "label": "Număr MPPT / string-uri",
+       "value": "2 / 2 (3 – 6K) și 2 / 4 (9 – 10K)"
+      },
+      {
+       "label": "Baterie",
+       "value": "Litiu-ion / plumb-acid, 40 – 60 V"
+      },
+      {
+       "label": "Porturi baterie / porturi BMS",
+       "value": "1 / 1"
+      },
+      {
+       "label": "Comunicare baterie",
+       "value": "CAN / RS485"
+      },
+      {
+       "label": "Tensiune și frecvență de rețea",
+       "value": "L/N/PE, 220 V / 230 V; 50 / 60 Hz"
+      },
+      {
+       "label": "Interval de tensiune de intrare AC",
+       "value": "187 – 253 V"
+      },
+      {
+       "label": "Factor de putere",
+       "value": "> 0,99 (0,8 capacitiv – 0,8 inductiv)"
+      },
+      {
+       "label": "THDi (rețea) / THDv (backup, sarcină liniară)",
+       "value": "< 3% / < 2%"
+      },
+      {
+       "label": "Suprasarcină în backup",
+       "value": "2 × puterea nominală, 10 s"
+      },
+      {
+       "label": "Timp de comutare backup",
+       "value": "< 10 ms (un invertor); < 20 ms (până la 6 în paralel)"
+      },
+      {
+       "label": "Eficiență maximă / europeană",
+       "value": "96,2% / 96,1%"
+      },
+      {
+       "label": "Eficiență încărcare baterie din PV / din AC",
+       "value": "95,3% / 93,9%"
+      },
+      {
+       "label": "Eficiență descărcare baterie",
+       "value": "93,8%"
+      },
+      {
+       "label": "Topologie",
+       "value": "Fără izolare (PV), cu izolare (baterie)"
+      },
+      {
+       "label": "Consum propriu",
+       "value": "< 40 W"
+      },
+      {
+       "label": "Temperatură / umiditate",
+       "value": "−25 – +60 °C / 0 – 100%"
+      },
+      {
+       "label": "Altitudine maximă",
+       "value": "3000 m"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP66"
+      },
+      {
+       "label": "Dimensiuni (L × Î × A)",
+       "value": "335 × 560 × 253 mm"
+      },
+      {
+       "label": "Conectare",
+       "value": "PV: MC4; baterie și AC: bornier"
+      },
+      {
+       "label": "Afișaj",
+       "value": "LCD de 7 inch, Bluetooth, aplicație"
+      },
+      {
+       "label": "Interfețe de comunicare",
+       "value": "Standard: Wi-Fi, LAN, Bluetooth, CAN-BMS, 2 × CAN paralel, RS485 pentru contor, RS485, DRM, DI, 2 × DO. Opțional: 4G"
+      },
+      {
+       "label": "Zgomot (tipic)",
+       "value": "< 40 dB(A) la 3 – 6K (răcire naturală); < 65 dB(A) la 9 – 10K (ventilator)"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Specificații tehnice pe modele",
+     "columns": [
+      "Model",
+      "3K",
+      "3.6K",
+      "4.6K",
+      "5K",
+      "6K",
+      "8K",
+      "9K (21A)",
+      "10K (21A)"
+     ],
+     "rows": [
+      [
+       "Intrare PV",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Dimensiune recomandată a câmpului PV",
+       "6 kW",
+       "7,2 kW",
+       "9,2 kW",
+       "10 kW",
+       "12 kW",
+       "16 kW",
+       "18 kW",
+       "20 kW"
+      ],
+      [
+       "Putere PV utilizabilă",
+       "4,8 kW",
+       "5,76 kW",
+       "7,36 kW",
+       "8 kW",
+       "9,6 kW",
+       "12,8 kW",
+       "14,4 kW",
+       "16 kW"
+      ],
+      [
+       "Curent maxim de intrare (per MPPT)",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "32 A",
+       "42 A",
+       "42 A"
+      ],
+      [
+       "Curent maxim per intrare DC",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "21 A",
+       "21 A"
+      ],
+      [
+       "Curent maxim de scurtcircuit (per MPPT)",
+       "20 A",
+       "20 A",
+       "20 A",
+       "20 A",
+       "20 A",
+       "40 A",
+       "48 A",
+       "48 A"
+      ],
+      [
+       "Baterie",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Curent maxim încărcare/descărcare",
+       "70 A",
+       "80 A",
+       "105 A",
+       "112 A",
+       "135 A",
+       "190 A",
+       "200 A",
+       "210 A"
+      ],
+      [
+       "Ieșire AC (rețea)",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală",
+       "3 kW",
+       "3,6 kW",
+       "4,6 kW",
+       "5 kW",
+       "6 kW",
+       "8 kW",
+       "9 kW",
+       "10 kW"
+      ],
+      [
+       "Curent nominal de ieșire (220 V / 230 V)",
+       "13,7 / 13,1 A",
+       "16,4 / 15,7 A",
+       "20,9 / 20 A",
+       "22,8 / 21,8 A",
+       "27,3 / 26,1 A",
+       "36,4 / 34,8 A",
+       "40,9 / 39,1 A",
+       "45,5 / 43,5 A"
+      ],
+      [
+       "Intrare AC (rețea)",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă de intrare",
+       "4,6 kW",
+       "5,5 kW",
+       "6,4 kW",
+       "7 kW",
+       "8,8 kW",
+       "11 kW",
+       "13,2 kW",
+       "14,3 kW"
+      ],
+      [
+       "Curent maxim de intrare",
+       "21 A",
+       "25 A",
+       "29 A",
+       "32 A",
+       "40 A",
+       "50 A",
+       "60 A",
+       "65 A"
+      ],
+      [
+       "Backup",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală de ieșire",
+       "3 kW",
+       "3,6 kW",
+       "4,6 kW",
+       "5 kW",
+       "6 kW",
+       "8 kW",
+       "9 kW",
+       "10 kW"
+      ],
+      [
+       "Curent maxim de trecere AC (bypass)",
+       "35 A",
+       "35 A",
+       "40 A",
+       "40 A",
+       "40 A",
+       "50 A",
+       "60 A",
+       "65 A"
+      ],
+      [
+       "Generator",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă de intrare",
+       "3 kW",
+       "3,6 kW",
+       "4,6 kW",
+       "5 kW",
+       "6 kW",
+       "8 kW",
+       "9 kW",
+       "10 kW"
+      ],
+      [
+       "General",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Greutate",
+       "23 kg",
+       "23 kg",
+       "23 kg",
+       "23 kg",
+       "23 kg",
+       "23,5 kg",
+       "23,8 kg",
+       "23,8 kg"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "S6-EH1P-3-6K-L-EU",
+  "slug": "solis-s6-eh1p-3-6-k-l-eu",
+  "name": "Solis S6-EH1P(3-6)K-L-EU",
+  "brand": "solis",
+  "category": "invertoare",
+  "subtitle": "Hibrid monofazat compact · baterie 48 V · 3–6 kW",
+  "image": "/images/products/solis-eh1p-l-eu.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "3 – 6 kW"
+   },
+   {
+    "label": "Curent baterie",
+    "value": "până la 125 A"
+   },
+   {
+    "label": "Backup",
+    "value": "< 10 ms"
+   }
+  ],
+  "features": [
+   "2 MPPT integrate",
+   "Curent mare la baterie",
+   "Comutare automată UPS în sub 10 ms"
+  ],
+  "tags": [
+   "hibrid",
+   "monofazat",
+   "low-voltage",
+   "rezidential"
+  ],
+  "powerW": 6000,
+  "phases": 1,
+  "details": {
+   "seoTitle": "Solis S6-EH1P(3-6)K-L-EU — Hibrid monofazat compact",
+   "seoDescription": "Invertor hibrid monofazat compact, IP66, cu 2 MPPT, încărcare/descărcare de până la 125 A și comutare în backup în sub 10 ms.",
+   "headline": "Invertor hibrid monofazat compact, IP66, cu 2 MPPT, încărcare/descărcare de până la 125 A și comutare în backup în sub 10 ms.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "3 – 6 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Monofazat 230 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "42 – 58 V, Li-ion / Pb"
+    },
+    {
+     "label": "MPPT",
+     "value": "2"
+    },
+    {
+     "label": "Curent baterie",
+     "value": "până la 125 A"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP66"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "2 MPPT integrate",
+     "text": "Pentru câmpuri fotovoltaice cu orientări diferite"
+    },
+    {
+     "title": "Curent mare la baterie",
+     "text": "Până la 125 A, adică 6 kW la modelul de 6 kW."
+    },
+    {
+     "title": "Comutare automată UPS în sub 10 ms",
+     "text": ""
+    },
+    {
+     "title": "Mod de reducere a vârfurilor de consum (peak shaving)",
+     "text": ""
+    },
+    {
+     "title": "Instalare rapidă",
+     "text": "Cabluri premontate pentru baterie, contor și CAN."
+    },
+    {
+     "title": "Baterii multiple",
+     "text": "Compatibil cu mai multe mărci de baterii cu litiu (lista este publicată de producător pe solisinverters.com)."
+    },
+    {
+     "title": "Protecții suplimentare pentru baterie pentru prelungirea duratei de viață",
+     "text": ""
+    },
+    {
+     "title": "Protecție la arc electric DC (AFCI) integrată (necesită activare)",
+     "text": ""
+    },
+    {
+     "title": "IP66",
+     "text": "Răcire naturală, funcționare de la −25 la +60 °C și până la 4000 m altitudine"
+    },
+    {
+     "title": "Monitorizare",
+     "text": "Bluetooth integrat și aplicația SolisCloud. Wi-Fi, LAN sau GPRS sunt opționale."
+    }
+   ],
+   "description": [
+    "Solis S6-EH1P(3-6)K-L-EU este un invertor hibrid monofazat pentru baterii de joasă tensiune (litiu-ion sau plumb-acid, 42 – 58 V, 50 – 2000 Ah). Gestionează panourile fotovoltaice, bateria și rețeaua, iar la pierderea rețelei trece automat în backup (funcție UPS). Se oferă în 5 puteri: 3, 3.6, 4.6, 5 și 6 kW (S6-EH1P3K-L-EU, S6-EH1P3.6K-L-EU, S6-EH1P4.6K-L-EU, S6-EH1P5K-L-EU, S6-EH1P6K-L-EU)."
+   ],
+   "sections": [
+    {
+     "title": "Standarde declarate de producător",
+     "bullets": [
+      "Conectare la rețea: G98 sau G99, VDE-AR-N 4105 / VDE V 0124, EN 50549-1, VDE 0126 / UTE C 15 / VFR:2019, RD 1699 / RD 244 / UNE 206006 / UNE 206007-1, CEI 0-21, C10/11, NRS 097-2-1, TOR, EIFS 2018.2, IEC 62116, IEC 61727, IEC 60068, IEC 61683, EN 50530, MEA, PEA.",
+      "Siguranță și EMC: IEC/EN 62109-1/-2, EN 61000-6-1/-2/-3/-4."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / nominală / de pornire",
+       "value": "600 V / 330 V / 90 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "90 – 520 V"
+      },
+      {
+       "label": "Curent maxim de intrare PV / de scurtcircuit",
+       "value": "16 A / 16 A și 24 A / 24 A (câte un string per MPPT)"
+      },
+      {
+       "label": "Număr MPPT / string-uri",
+       "value": "2 / 2"
+      },
+      {
+       "label": "Baterie",
+       "value": "Litiu-ion / plumb-acid, 42 – 58 V, 50 – 2000 Ah"
+      },
+      {
+       "label": "Comunicare baterie",
+       "value": "CAN"
+      },
+      {
+       "label": "Fază / tensiune / frecvență de rețea",
+       "value": "1/N/PE, 220 V / 230 V, 50 / 60 Hz"
+      },
+      {
+       "label": "Domeniu de frecvență",
+       "value": "45 – 55 Hz / 55 – 65 Hz"
+      },
+      {
+       "label": "Interval de tensiune de intrare AC",
+       "value": "187 – 253 V"
+      },
+      {
+       "label": "Factor de putere",
+       "value": "> 0,99 (0,8 capacitiv – 0,8 inductiv)"
+      },
+      {
+       "label": "THDi (rețea) / THDv (backup)",
+       "value": "< 2% / < 2%"
+      },
+      {
+       "label": "Timp de comutare backup",
+       "value": "< 10 ms"
+      },
+      {
+       "label": "Eficiență europeană",
+       "value": "> 96,2%"
+      },
+      {
+       "label": "Eficiență încărcare baterie din PV",
+       "value": "> 94,9%"
+      },
+      {
+       "label": "Eficiență încărcare / descărcare baterie către AC",
+       "value": "> 94,33% / 93,51%"
+      },
+      {
+       "label": "Protecții",
+       "value": "Polaritate inversă DC, monitorizare defecte la pământ, AFCI (cu activare)"
+      },
+      {
+       "label": "Clasa de protecție / categoria de supratensiune",
+       "value": "I / II"
+      },
+      {
+       "label": "Topologie",
+       "value": "Izolare de înaltă frecvență (pentru baterie)"
+      },
+      {
+       "label": "Temperatură de funcționare",
+       "value": "−25 – +60 °C"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP66"
+      },
+      {
+       "label": "Răcire",
+       "value": "Naturală"
+      },
+      {
+       "label": "Altitudine maximă",
+       "value": "4000 m"
+      },
+      {
+       "label": "Dimensiuni (L × Î × A)",
+       "value": "405 × 480 × 205 mm"
+      },
+      {
+       "label": "Greutate",
+       "value": "20,3 kg (3K, 3.6K) / 22,4 kg (5K, 6K)"
+      },
+      {
+       "label": "Conectare",
+       "value": "PV: MC4; AC: conector rapid"
+      },
+      {
+       "label": "Afișaj",
+       "value": "Indicatoare LED, Bluetooth, aplicație"
+      },
+      {
+       "label": "Comunicare",
+       "value": "RS485, CAN; opțional Wi-Fi, GPRS, LAN"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Specificații tehnice pe modele",
+     "columns": [
+      "Model",
+      "3K",
+      "3.6K",
+      "4.6K",
+      "5K",
+      "6K"
+     ],
+     "rows": [
+      [
+       "Intrare PV",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere PV maximă recomandată",
+       "4,8 kW",
+       "5,7 kW",
+       "7 kW",
+       "8 kW",
+       "9,6 kW"
+      ],
+      [
+       "Baterie",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă încărcare/descărcare",
+       "3 kW",
+       "3,6 kW",
+       "4,6 kW",
+       "5 kW",
+       "6 kW"
+      ],
+      [
+       "Curent maxim încărcare/descărcare",
+       "62,5 A",
+       "75 A",
+       "100 A",
+       "105 A",
+       "125 A"
+      ],
+      [
+       "Ieșire AC (rețea)",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală / maximă aparentă",
+       "3 kW / 3 kVA",
+       "3,6 kW / 3,6 kVA",
+       "4,6 kW / 4,6 kVA",
+       "5 kW / 5 kVA",
+       "6 kW / 6 kVA"
+      ],
+      [
+       "Curent nominal și maxim de ieșire (220 V / 230 V)",
+       "13,6 / 13 A",
+       "16,4 / 15,7 A",
+       "20,9 / 20 A",
+       "22,7 / 21,7 A",
+       "27,3 / 26,1 A"
+      ],
+      [
+       "Intrare AC (rețea)",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Curent maxim de intrare",
+       "20 A",
+       "24,6 A",
+       "31,4 A",
+       "32 A",
+       "40 A"
+      ],
+      [
+       "Backup",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală",
+       "3 kW",
+       "3,6 kW",
+       "4,6 kW",
+       "5 kW",
+       "6 kW"
+      ],
+      [
+       "Putere maximă aparentă (60 s)",
+       "4,2 kVA",
+       "5 kVA",
+       "6,4 kVA",
+       "7 kVA",
+       "8 kVA"
+      ],
+      [
+       "Curent maxim de ieșire",
+       "19,1 A",
+       "22,7 A",
+       "29,1 A",
+       "31,8 A",
+       "36,4 A"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "S6-EH3P-5-18K02-NV-YD-L",
+  "slug": "solis-s6-eh3p-5-18-k02-nv-yd-l",
+  "name": "Solis S6-EH3P(5-18)K02-NV-YD-L",
+  "brand": "solis",
+  "category": "invertoare",
+  "subtitle": "Hibrid trifazat · baterie 48 V · 5–18 kW",
+  "image": "/images/products/solis-eh3p-nv-yd-l.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "5 – 18 kW"
+   },
+   {
+    "label": "Porturi baterie",
+    "value": "2"
+   },
+   {
+    "label": "Backup",
+    "value": "< 10 ms"
+   }
+  ],
+  "features": [
+   "Intrare PV generoasă",
+   "Interval MPPT larg",
+   "Două porturi de baterie"
+  ],
+  "tags": [
+   "hibrid",
+   "trifazat",
+   "low-voltage",
+   "rezidential",
+   "comercial"
+  ],
+  "powerW": 18000,
+  "phases": 3,
+  "details": {
+   "seoTitle": "Solis S6-EH3P(5-18)K02-NV-YD-L — Hibrid trifazat",
+   "seoDescription": "Invertor hibrid trifazat pentru baterii de 48 V, cu 2 MPPT, 2 porturi de baterie, cuplare DC și AC, IP66 și backup în sub 10 ms.",
+   "headline": "Invertor hibrid trifazat pentru baterii de 48 V, cu 2 MPPT, 2 porturi de baterie, cuplare DC și AC, IP66 și backup în sub 10 ms.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "5 – 18 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Trifazat 400 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "40 – 60 V, Li-ion / Pb"
+    },
+    {
+     "label": "MPPT",
+     "value": "2"
+    },
+    {
+     "label": "Porturi baterie",
+     "value": "2"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP66"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Intrare PV generoasă",
+     "text": "Putere PV utilizabilă de până la 160% din puterea nominală, iar câmpul recomandat este de până la 200%."
+    },
+    {
+     "title": "Interval MPPT larg",
+     "text": "200 – 850 V, cu pornire la 160 V și tensiune maximă de 1000 V."
+    },
+    {
+     "title": "Două porturi de baterie (150 A per port",
+     "text": "175 A la 18K), cu un singur port de comunicare BMS"
+    },
+    {
+     "title": "Cuplare DC și AC",
+     "text": "Poate extinde instalații fotovoltaice existente și poate alimenta consumatorii și în regim off-grid."
+    },
+    {
+     "title": "Ieșire dezechilibrată",
+     "text": "Fiecare fază poate livra până la 50% din puterea nominală a invertorului (40% la 18K)."
+    },
+    {
+     "title": "Backup fără întrerupere",
+     "text": "Comutare în sub 10 ms (sub 20 ms într-un sistem paralel cu până la 6 invertoare)."
+    },
+    {
+     "title": "Pornirea motoarelor",
+     "text": "Suprasarcină de 200% timp de 10 s în regim off-grid."
+    },
+    {
+     "title": "Generator",
+     "text": "Conectare și pornire automată, plus management inteligent al sarcinilor cu priorități."
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 6 unități în paralel."
+    },
+    {
+     "title": "Funcționare off-grid doar cu PV",
+     "text": "Fără baterie, în configurații care reduc costul inițial"
+    },
+    {
+     "title": "Nivel de backup reglabil al bateriei",
+     "text": ""
+    },
+    {
+     "title": "Monitorizare",
+     "text": "Ecran LCD de 7 inch, Wi-Fi, LAN și Bluetooth integrate, aplicația și platforma SolisCloud."
+    },
+    {
+     "title": "IP66 și funcționare de la −25 la +60 °C",
+     "text": ""
+    }
+   ],
+   "description": [
+    "Solis S6-EH3P(5-18)K02-NV-YD-L este un invertor hibrid trifazat (3/N/PE, 220/380 V sau 230/400 V) pentru baterii de joasă tensiune (40 – 60 V, litiu-ion sau plumb-acid). Gestionează panourile fotovoltaice, bateria, rețeaua și un generator, iar la pierderea rețelei trece în regim de backup în sub 10 ms. Se oferă în 7 puteri: 5, 6, 8, 10, 12, 15 și 18 kW."
+   ],
+   "sections": [
+    {
+     "title": "Protecții integrate",
+     "paragraphs": [
+      "Protecție la supratensiune DC tip II (AC tip II opțional), supracurent la ieșire, monitorizarea rezistenței de izolație, detectarea curentului rezidual, întrerupător PV integrat, protecție la polaritate inversă DC, protecție anti-insularizare. AFCI 2.0 (protecție la arc electric) este opțional. Clasa I, categoria de supratensiune II (PV și baterie) și III (rețea, backup, generator)."
+     ]
+    },
+    {
+     "title": "Standarde declarate de producător",
+     "bullets": [
+      "Conectare la rețea: EN 50549-1/-10, VDE 4105 și VDE 0124, NRS 097-2-1, IEC 62116, IEC 61727, IEC 60068, IEC 61683, EN 50530, EN 50438L, CEI 0-21, MEA, PEA.",
+      "Siguranță și EMC: IEC/EN 62109-1/-2, IEC/EN 61000-6-1/-2/-3/-4."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / nominală / de pornire",
+       "value": "1000 V / 550 V / 160 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "200 – 850 V"
+      },
+      {
+       "label": "Baterie",
+       "value": "Litiu-ion / plumb-acid, 40 – 60 V"
+      },
+      {
+       "label": "Porturi baterie / porturi BMS",
+       "value": "2 / 1"
+      },
+      {
+       "label": "Comunicare baterie",
+       "value": "CAN / RS485"
+      },
+      {
+       "label": "Tensiune și frecvență de rețea",
+       "value": "3/N/PE, 220/380 V sau 230/400 V; 50 / 60 Hz"
+      },
+      {
+       "label": "Interval de tensiune de intrare AC",
+       "value": "323 – 437 V / 340 – 460 V"
+      },
+      {
+       "label": "Factor de putere",
+       "value": "> 0,99 (0,8 capacitiv – 0,8 inductiv)"
+      },
+      {
+       "label": "THDi (rețea) / THDv (backup)",
+       "value": "< 3% / < 3%"
+      },
+      {
+       "label": "Suprasarcină în backup",
+       "value": "2 × puterea nominală, 10 s"
+      },
+      {
+       "label": "Curent maxim de trecere AC (bypass)",
+       "value": "50 A"
+      },
+      {
+       "label": "Timp de comutare backup",
+       "value": "< 10 ms (un invertor); < 20 ms (până la 6 în paralel)"
+      },
+      {
+       "label": "Eficiență maximă / europeană",
+       "value": "97,5% / 97,0%"
+      },
+      {
+       "label": "Eficiență încărcare baterie din PV / din AC",
+       "value": "95,0% / 94,4%"
+      },
+      {
+       "label": "Eficiență descărcare baterie",
+       "value": "94,5%"
+      },
+      {
+       "label": "Topologie",
+       "value": "Fără izolare (PV), cu izolare (baterie)"
+      },
+      {
+       "label": "Consum propriu",
+       "value": "< 30 W"
+      },
+      {
+       "label": "Temperatură / umiditate",
+       "value": "−25 – +60 °C / 0 – 100%"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP66"
+      },
+      {
+       "label": "Zgomot (tipic) / răcire",
+       "value": "< 65 dB(A) / răcire inteligentă cu ventilator"
+      },
+      {
+       "label": "Altitudine maximă",
+       "value": "4000 m"
+      },
+      {
+       "label": "Dimensiuni (L × Î × A)",
+       "value": "430 × 660 × 305 mm"
+      },
+      {
+       "label": "Greutate",
+       "value": "42 kg"
+      },
+      {
+       "label": "Conectare",
+       "value": "PV: MC4; baterie și AC: borne cu șurub"
+      },
+      {
+       "label": "Afișaj",
+       "value": "LCD de 7 inch, Bluetooth, aplicație"
+      },
+      {
+       "label": "Interfețe de comunicare",
+       "value": "Standard: Wi-Fi, LAN, Bluetooth, CAN-BMS, 2 × CAN paralel, RS485 pentru contor, RS485, DRM, DI, 4 × DO. Opțional: 2G / 3G / 4G"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Specificații tehnice pe modele",
+     "columns": [
+      "Model",
+      "5K",
+      "6K",
+      "8K",
+      "10K",
+      "12K",
+      "15K",
+      "18K"
+     ],
+     "rows": [
+      [
+       "Intrare PV",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Dimensiune recomandată a câmpului PV",
+       "10 kW",
+       "12 kW",
+       "16 kW",
+       "20 kW",
+       "24 kW",
+       "30 kW",
+       "36 kW"
+      ],
+      [
+       "Putere PV utilizabilă",
+       "9 kW",
+       "9,6 kW",
+       "12,8 kW",
+       "16 kW",
+       "19,2 kW",
+       "24 kW",
+       "28,8 kW"
+      ],
+      [
+       "Curent maxim de intrare (per MPPT)",
+       "20 / 20 A",
+       "20 / 20 A",
+       "20 / 40 A",
+       "20 / 40 A",
+       "40 / 40 A",
+       "40 / 40 A",
+       "42 / 42 A"
+      ],
+      [
+       "Curent maxim per intrare DC",
+       "20 A",
+       "20 A",
+       "20 A",
+       "20 A",
+       "20 A",
+       "20 A",
+       "21 A"
+      ],
+      [
+       "Curent maxim de scurtcircuit (per MPPT)",
+       "30 / 30 A",
+       "30 / 30 A",
+       "30 / 50 A",
+       "30 / 50 A",
+       "50 / 50 A",
+       "50 / 50 A",
+       "50 / 50 A"
+      ],
+      [
+       "MPPT / string-uri",
+       "2 / 2",
+       "2 / 2",
+       "2 / 3",
+       "2 / 3",
+       "2 / 4",
+       "2 / 4",
+       "2 / 4"
+      ],
+      [
+       "Baterie",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Curent maxim încărcare/descărcare",
+       "125 A",
+       "150 A",
+       "180 A",
+       "220 A",
+       "250 A",
+       "290 A",
+       "320 A"
+      ],
+      [
+       "Putere baterie la 48 V",
+       "6,0 kW",
+       "7,2 kW",
+       "8,64 kW",
+       "10,56 kW",
+       "12,0 kW",
+       "13,92 kW",
+       "15,36 kW"
+      ],
+      [
+       "Curent maxim per port",
+       "150 A",
+       "150 A",
+       "150 A",
+       "150 A",
+       "150 A",
+       "150 A",
+       "175 A"
+      ],
+      [
+       "Ieșire AC (rețea)",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală / maximă aparentă",
+       "5 kW / 5 kVA",
+       "6 kW / 6 kVA",
+       "8 kW / 8 kVA",
+       "10 kW / 10 kVA",
+       "12 kW / 12 kVA",
+       "15 kW / 15 kVA",
+       "18 kW / 18 kVA"
+      ],
+      [
+       "Curent nominal (380 V / 400 V)",
+       "7,6 / 7,3 A",
+       "9,1 / 8,7 A",
+       "12,2 / 11,5 A",
+       "15,2 / 14,4 A",
+       "18,2 / 17,3 A",
+       "22,8 / 21,7 A",
+       "27,3 / 26,1 A"
+      ],
+      [
+       "Intrare AC (rețea)",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă de intrare",
+       "7,5 kW",
+       "9 kW",
+       "12 kW",
+       "15 kW",
+       "18 kW",
+       "22,5 kW",
+       "27 kW"
+      ],
+      [
+       "Curent maxim de intrare (380 V / 400 V)",
+       "11,4 / 10,9 A",
+       "13,7 / 13,1 A",
+       "18,3 / 17,3 A",
+       "22,8 / 21,7 A",
+       "27,3 / 26,0 A",
+       "34,2 / 32,5 A",
+       "41 / 39,2 A"
+      ],
+      [
+       "Backup și generator",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală backup",
+       "5 kW",
+       "6 kW",
+       "8 kW",
+       "10 kW",
+       "12 kW",
+       "15 kW",
+       "18 kW"
+      ],
+      [
+       "Putere maximă de intrare de la generator",
+       "5 kW",
+       "6 kW",
+       "8 kW",
+       "10 kW",
+       "12 kW",
+       "15 kW",
+       "18 kW"
+      ],
+      [
+       "Putere maximă per fază",
+       "50% din nominal",
+       "50% din nominal",
+       "50% din nominal",
+       "50% din nominal",
+       "50% din nominal",
+       "50% din nominal",
+       "40% din nominal"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "S6-EH3P-7-10K02-LV-YD-L",
+  "slug": "solis-s6-eh3p-7-10-k02-lv-yd-l",
+  "name": "Solis S6-EH3P(7-10)K02-LV-YD-L",
+  "brand": "solis",
+  "category": "invertoare",
+  "subtitle": "Hibrid trifazat · rețea 127/220 V · 7–10 kW",
+  "image": "/images/products/solis-eh3p-lv-yd-l.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "7 – 10 kW"
+   },
+   {
+    "label": "Rețea",
+    "value": "127 / 220 V"
+   },
+   {
+    "label": "Backup",
+    "value": "< 10 ms"
+   }
+  ],
+  "features": [
+   "Intrare PV generoasă",
+   "Interval MPPT larg",
+   "Două porturi de baterie"
+  ],
+  "tags": [
+   "hibrid",
+   "trifazat",
+   "low-voltage",
+   "comercial"
+  ],
+  "powerW": 10000,
+  "phases": 3,
+  "details": {
+   "seoTitle": "Solis S6-EH3P(7-10)K02-LV-YD-L — Hibrid trifazat",
+   "seoDescription": "Invertor hibrid trifazat pentru rețele de 127 / 220 V, cu 2 MPPT, 2 porturi de baterie și backup în sub 10 ms.",
+   "headline": "Invertor hibrid trifazat pentru rețele de 127 / 220 V, cu 2 MPPT, 2 porturi de baterie și backup în sub 10 ms.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "7 – 10 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Trifazat 127 / 220 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "40 – 60 V, Li-ion / Pb"
+    },
+    {
+     "label": "MPPT",
+     "value": "2"
+    },
+    {
+     "label": "Porturi baterie",
+     "value": "2 × 150 A"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP66"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Intrare PV generoasă",
+     "text": "Putere PV utilizabilă de până la 160% din puterea nominală, iar câmpul recomandat este de până la 200%."
+    },
+    {
+     "title": "Interval MPPT larg",
+     "text": "200 – 850 V, cu pornire la 160 V."
+    },
+    {
+     "title": "Două porturi de baterie, cu până la 150 A per port",
+     "text": ""
+    },
+    {
+     "title": "Cuplare DC și AC și ieșire trifazată dezechilibrată (până la 50% din puterea nominală pe fază",
+     "text": "45% la 10K)"
+    },
+    {
+     "title": "Backup fără întrerupere",
+     "text": "Comutare în sub 10 ms și suprasarcină de 200% timp de 10 s în regim off-grid."
+    },
+    {
+     "title": "Generator",
+     "text": "Conectare și pornire automată, cu management inteligent al sarcinilor."
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 6 unități în paralel."
+    },
+    {
+     "title": "Funcționare off-grid doar cu PV, fără baterie",
+     "text": ""
+    },
+    {
+     "title": "Monitorizare",
+     "text": "Ecran de 7 inch, Bluetooth, aplicația și platforma SolisCloud."
+    },
+    {
+     "title": "IP66 și funcționare de la −25 la +60 °C",
+     "text": ""
+    }
+   ],
+   "description": [
+    "Solis S6-EH3P(7-10)K02-LV-YD-L este un invertor hibrid trifazat pentru baterii de joasă tensiune (40 – 60 V, litiu-ion sau plumb-acid), construit pentru rețele cu tensiune între fază și neutru de 127 V sau 133 V. Se oferă în 4 puteri: 7, 8, 9 și 10 kW."
+   ],
+   "sections": [
+    {
+     "title": "Protecții integrate",
+     "paragraphs": [
+      "Protecție anti-insularizare, supracurent și scurtcircuit la ieșire, polaritate inversă DC, întrerupător DC integrat, protecție la supratensiune DC tip II (AC tip II opțional). AFCI 2.0 este opțional (în Brazilia este inclus). Clasa I, categoria de supratensiune II (PV și baterie) și III (rețea, backup, generator)."
+     ]
+    },
+    {
+     "title": "Standarde declarate de producător",
+     "paragraphs": [
+      "Siguranță și EMC: IEC/EN 62109-1/-2, IEC/EN 61000-6-1/-2/-3/-4."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / nominală / de pornire",
+       "value": "1000 V / 550 V / 160 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "200 – 850 V"
+      },
+      {
+       "label": "MPPT / string-uri",
+       "value": "2 / 3"
+      },
+      {
+       "label": "Baterie",
+       "value": "Litiu-ion / plumb-acid, 40 – 60 V"
+      },
+      {
+       "label": "Porturi baterie / curent maxim per port",
+       "value": "2 / 150 A"
+      },
+      {
+       "label": "Comunicare baterie",
+       "value": "CAN / RS485"
+      },
+      {
+       "label": "Rețea",
+       "value": "3/N/PE, 127 V / 220 V sau 133 V / 230 V; 50 / 60 Hz"
+      },
+      {
+       "label": "Factor de putere",
+       "value": "> 0,99 (0,8 capacitiv – 0,8 inductiv)"
+      },
+      {
+       "label": "THDi (rețea) / THDv (backup)",
+       "value": "< 3% / < 3%"
+      },
+      {
+       "label": "Suprasarcină în backup",
+       "value": "2 × puterea nominală, 10 s"
+      },
+      {
+       "label": "Curent maxim continuu de trecere AC (bypass)",
+       "value": "50 A"
+      },
+      {
+       "label": "Timp de comutare backup",
+       "value": "< 10 ms"
+      },
+      {
+       "label": "Eficiență maximă / europeană",
+       "value": "96,2% / 95,4%"
+      },
+      {
+       "label": "Eficiență încărcare baterie din PV / din AC",
+       "value": "95,0% / 94,4%"
+      },
+      {
+       "label": "Eficiență descărcare baterie către AC",
+       "value": "94,5%"
+      },
+      {
+       "label": "Topologie",
+       "value": "Fără izolare"
+      },
+      {
+       "label": "Consum propriu (noaptea)",
+       "value": "< 30 W"
+      },
+      {
+       "label": "Temperatură / umiditate",
+       "value": "−25 – +60 °C / 0 – 100%"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP66"
+      },
+      {
+       "label": "Zgomot (tipic) / răcire",
+       "value": "< 65 dB(A) / răcire inteligentă cu ventilator"
+      },
+      {
+       "label": "Altitudine maximă",
+       "value": "4000 m"
+      },
+      {
+       "label": "Dimensiuni (L × Î × A) / greutate",
+       "value": "430 × 660 × 305 mm / 42 kg"
+      },
+      {
+       "label": "Conectare",
+       "value": "PV: MC4; baterie și AC: borne cu șurub"
+      },
+      {
+       "label": "Afișaj",
+       "value": "LCD de 7 inch, Bluetooth, aplicație"
+      },
+      {
+       "label": "Comunicare",
+       "value": "CAN, RS485, Ethernet; opțional Wi-Fi, celular, LAN"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Specificații tehnice pe modele",
+     "columns": [
+      "Model",
+      "7K",
+      "8K",
+      "9K",
+      "10K"
+     ],
+     "rows": [
+      [
+       "Intrare PV",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Dimensiune recomandată a câmpului PV",
+       "14 kW",
+       "16 kW",
+       "18 kW",
+       "20 kW"
+      ],
+      [
+       "Putere PV utilizabilă",
+       "11,2 kW",
+       "12,8 kW",
+       "14,4 kW",
+       "16 kW"
+      ],
+      [
+       "Curent maxim de intrare (per MPPT)",
+       "20 / 40 A",
+       "20 / 40 A",
+       "20 / 40 A",
+       "21 / 42 A"
+      ],
+      [
+       "Curent maxim de scurtcircuit (per MPPT)",
+       "30 / 50 A",
+       "30 / 50 A",
+       "30 / 50 A",
+       "30 / 50 A"
+      ],
+      [
+       "Baterie",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Curent maxim încărcare/descărcare",
+       "156 A",
+       "178 A",
+       "200 A",
+       "235 A"
+      ],
+      [
+       "Putere baterie la 48 V",
+       "≈ 7,49 kW",
+       "≈ 8,54 kW",
+       "≈ 9,6 kW",
+       "≈ 11,28 kW"
+      ],
+      [
+       "Ieșire AC (rețea)",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală / maximă aparentă",
+       "7 kW / 7 kVA",
+       "8 kW / 8 kVA",
+       "9 kW / 9 kVA",
+       "10 kW / 10 kVA"
+      ],
+      [
+       "Curent nominal (220 V / 230 V)",
+       "18,4 / 17,6 A",
+       "21 / 20,1 A",
+       "23,5 / 22,6 A",
+       "26,3 / 25,1 A"
+      ],
+      [
+       "Curent maxim de intrare din rețea",
+       "27,6 A",
+       "31,5 A",
+       "35,4 A",
+       "39,4 A"
+      ],
+      [
+       "Backup și generator",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală backup",
+       "7 kW",
+       "8 kW",
+       "9 kW",
+       "10 kW"
+      ],
+      [
+       "Curent maxim continuu de ieșire",
+       "18,4 A",
+       "21 A",
+       "23,5 A",
+       "26,3 A"
+      ],
+      [
+       "Putere maximă de intrare de la generator",
+       "7 kW",
+       "8 kW",
+       "9 kW",
+       "10 kW"
+      ],
+      [
+       "Putere maximă per fază",
+       "50% din nominal",
+       "50% din nominal",
+       "50% din nominal",
+       "45% din nominal"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "S6-EH3P12K-H-EU-21A",
+  "slug": "solis-s6-eh3p12k-h-eu-21a",
+  "name": "Solis S6-EH3P12K-H-EU(21A)",
+  "brand": "solis",
+  "category": "invertoare",
+  "subtitle": "Hibrid trifazat · baterie de înaltă tensiune · 12 kW",
+  "image": "/images/products/solis-eh3p-h.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "12 kW"
+   },
+   {
+    "label": "MPPT",
+    "value": "4 × 21 A"
+   },
+   {
+    "label": "Baterie",
+    "value": "120 – 700 V"
+   }
+  ],
+  "features": [
+   "4 MPPT independente",
+   "Intrare PV generoasă",
+   "Backup fără întrerupere"
+  ],
+  "tags": [
+   "hibrid",
+   "trifazat",
+   "high-voltage",
+   "rezidential",
+   "comercial"
+  ],
+  "powerW": 12000,
+  "phases": 3,
+  "details": {
+   "seoTitle": "Solis S6-EH3P12K-H-EU(21A) — Hibrid trifazat",
+   "seoDescription": "Invertor hibrid trifazat de 12 kW cu 4 MPPT de 21 A, fără transformator, cu răcire naturală, IP66 și funcționare silențioasă.",
+   "headline": "Invertor hibrid trifazat de 12 kW cu 4 MPPT de 21 A, fără transformator, cu răcire naturală, IP66 și funcționare silențioasă.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "12 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Trifazat 400 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "Li-ion 120 – 700 V"
+    },
+    {
+     "label": "MPPT",
+     "value": "4 × 21 A"
+    },
+    {
+     "label": "Răcire",
+     "value": "Naturală"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP66"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "4 MPPT independente",
+     "text": "Cu până la 21 A per intrare, pentru panouri de putere mare"
+    },
+    {
+     "title": "Intrare PV generoasă",
+     "text": "Putere PV utilizabilă de 19,2 kW (160% din puterea nominală), iar câmpul recomandat este de 24 kW (200%)."
+    },
+    {
+     "title": "Backup fără întrerupere",
+     "text": "Comutare în sub 10 ms, suprasarcină de 160% timp de 60 s în regim off-grid."
+    },
+    {
+     "title": "Ieșire trifazată dezechilibrată",
+     "text": "Fiecare fază poate livra până la 50% din puterea nominală."
+    },
+    {
+     "title": "Cuplare AC",
+     "text": "Funcționează și cu instalații fotovoltaice existente conectate la rețea, pentru controlul injecției și utilizare off-grid."
+    },
+    {
+     "title": "Acces generator pe partea rețelei",
+     "text": "Pentru situații cu alimentare insuficientă"
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 6 unități în paralel."
+    },
+    {
+     "title": "Funcționare off-grid doar cu PV și nivel de backup reglabil al bateriei",
+     "text": ""
+    },
+    {
+     "title": "Silențios",
+     "text": "Sub 46,9 dB(A), cu răcire naturală."
+    },
+    {
+     "title": "Compact",
+     "text": "563 × 412 × 230 mm, 34,5 kg, IP66."
+    }
+   ],
+   "description": [
+    "Solis S6-EH3P12K-H-EU(21A) este un invertor hibrid trifazat de 12 kW pentru baterii litiu-ion de înaltă tensiune (120 – 700 V). Are 4 intrări MPPT independente, potrivite pentru acoperișuri cu mai multe orientări sau cu umbrire parțială. Gestionează panourile, bateria și rețeaua și trece în regim de backup în sub 10 ms. Sunt incluse un indicator LED, Bluetooth și aplicația SolisCloud."
+   ],
+   "sections": [
+    {
+     "title": "Protecții integrate",
+     "paragraphs": [
+      "Protecție anti-insularizare, supracurent și scurtcircuit la ieșire, întrerupător DC integrat, polaritate inversă DC și polaritate inversă a bateriei. Protecția la supratensiune DC tip II este inclusă, iar AC tip II este opțională."
+     ]
+    },
+    {
+     "title": "Standarde declarate de producător",
+     "bullets": [
+      "Conectare la rețea: G98 sau G99, VDE-AR-N 4105 / VDE V 0124, EN 50549-1, VDE 0126 / UTE C 15 / VFR:2019, RD 1699 / RD 244 / UNE 206006 / UNE 206007-1, CEI 0-21, C10/11, NRS 097-2-1, TOR, EIFS 2018.2, IEC 62116, IEC 61727, IEC 60068, IEC 61683, EN 50530, MEA, PEA, EK18.",
+      "Siguranță și EMC: IEC/EN 62109-1/-2, IEC/EN 61000-6-1/-3."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Specificații tehnice",
+     "rows": [
+      {
+       "label": "Model",
+       "value": "S6-EH3P12K-H-EU(21A)"
+      },
+      {
+       "label": "Putere nominală / maximă aparentă",
+       "value": "12 kW / 12 kVA"
+      },
+      {
+       "label": "Dimensiune recomandată a câmpului PV",
+       "value": "24 kW"
+      },
+      {
+       "label": "Putere PV utilizabilă",
+       "value": "19,2 kW"
+      },
+      {
+       "label": "Tensiune PV maximă / nominală / de pornire",
+       "value": "1000 V / 600 V / 160 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "200 – 850 V"
+      },
+      {
+       "label": "Curent maxim de intrare PV / de scurtcircuit",
+       "value": "4 × 21 A / 4 × 31,5 A"
+      },
+      {
+       "label": "MPPT / string-uri",
+       "value": "4 / 4"
+      },
+      {
+       "label": "Baterie",
+       "value": "Litiu-ion, 120 – 700 V"
+      },
+      {
+       "label": "Putere / curent maxim încărcare-descărcare",
+       "value": "12 kW / 50 A"
+      },
+      {
+       "label": "Comunicare baterie",
+       "value": "CAN / RS485"
+      },
+      {
+       "label": "Rețea",
+       "value": "3/N/PE, 380 V / 400 V; 50 / 60 Hz"
+      },
+      {
+       "label": "Curent nominal și maxim de ieșire (380 V / 400 V)",
+       "value": "18,2 / 17,3 A"
+      },
+      {
+       "label": "Factor de putere / THDi",
+       "value": "> 0,99 (0,8 capacitiv – 0,8 inductiv) / < 3%"
+      },
+      {
+       "label": "Interval tensiune de intrare AC",
+       "value": "304 – 437 V / 320 – 460 V"
+      },
+      {
+       "label": "Curent maxim de intrare AC",
+       "value": "27,3 / 26,0 A"
+      },
+      {
+       "label": "Domeniu de frecvență",
+       "value": "45 – 55 Hz / 55 – 65 Hz"
+      },
+      {
+       "label": "Backup: putere nominală / suprasarcină",
+       "value": "12 kW / 1,6 × puterea nominală, 60 s"
+      },
+      {
+       "label": "Timp de comutare backup",
+       "value": "< 10 ms"
+      },
+      {
+       "label": "Curent de ieșire în backup / THDv",
+       "value": "18,2 / 17,3 A / < 3%"
+      },
+      {
+       "label": "Eficiență maximă / europeană",
+       "value": "97,85% / 97,51%"
+      },
+      {
+       "label": "Eficiență încărcare baterie din PV",
+       "value": "98,31%"
+      },
+      {
+       "label": "Eficiență încărcare / descărcare baterie către AC",
+       "value": "97,50%"
+      },
+      {
+       "label": "Putere maximă per fază",
+       "value": "50% din nominal"
+      },
+      {
+       "label": "Topologie",
+       "value": "Fără transformator"
+      },
+      {
+       "label": "Consum propriu (noaptea)",
+       "value": "< 25 W"
+      },
+      {
+       "label": "Temperatură / umiditate",
+       "value": "−25 – +60 °C / 0 – 100%"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP66"
+      },
+      {
+       "label": "Zgomot (tipic) / răcire",
+       "value": "< 46,9 dB(A) / naturală"
+      },
+      {
+       "label": "Altitudine maximă",
+       "value": "4000 m"
+      },
+      {
+       "label": "Dimensiuni (L × Î × A) / greutate",
+       "value": "563 × 412 × 230 mm / 34,5 kg"
+      },
+      {
+       "label": "Conectare",
+       "value": "PV: MC4; baterie și AC: conector rapid"
+      },
+      {
+       "label": "Afișaj",
+       "value": "Indicator LED, Bluetooth, aplicație"
+      },
+      {
+       "label": "Comunicare",
+       "value": "CAN, RS485; opțional Wi-Fi, celular, LAN"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "S6-EH3P-3-10K-H",
+  "slug": "solis-s6-eh3p-3-10-k-h",
+  "name": "Solis S6-EH3P(3-10)K-H",
+  "brand": "solis",
+  "category": "invertoare",
+  "subtitle": "Hibrid trifazat · baterie de înaltă tensiune · 3–10 kW",
+  "image": "/images/products/solis-eh3p-h.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "3 – 10 kW"
+   },
+   {
+    "label": "MPPT",
+    "value": "2 – 4"
+   },
+   {
+    "label": "Backup",
+    "value": "< 10 ms"
+   }
+  ],
+  "features": [
+   "Până la 4 MPPT",
+   "Intrare PV generoasă",
+   "Ieșire dezechilibrată 100%"
+  ],
+  "tags": [
+   "hibrid",
+   "trifazat",
+   "high-voltage",
+   "rezidential"
+  ],
+  "powerW": 10000,
+  "phases": 3,
+  "details": {
+   "seoTitle": "Solis S6-EH3P(3-10)K-H — Hibrid trifazat",
+   "seoDescription": "Familie de invertoare hibride trifazate de 3 – 10 kW, cu 2 – 4 MPPT, ieșire dezechilibrată 100%, backup în sub 10 ms și IP66.",
+   "headline": "Familie de invertoare hibride trifazate de 3 – 10 kW, cu 2 – 4 MPPT, ieșire dezechilibrată 100%, backup în sub 10 ms și IP66.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "3 – 10 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Trifazat 400 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "Li-ion 120 – 600 V"
+    },
+    {
+     "label": "MPPT",
+     "value": "2 – 4"
+    },
+    {
+     "label": "Ieșire dezechilibrată",
+     "value": "100%"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP66"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Până la 4 MPPT (la 8K-EU și 10K-EU)",
+     "text": "Pentru acoperișuri cu mai multe orientări sau cu umbrire"
+    },
+    {
+     "title": "Intrare PV generoasă",
+     "text": "Putere PV utilizabilă de până la 160% din puterea nominală, iar câmpul recomandat este de 200%."
+    },
+    {
+     "title": "Ieșire dezechilibrată 100%",
+     "text": "Fiecare fază poate livra până la 50% din puterea nominală."
+    },
+    {
+     "title": "Backup fără întrerupere",
+     "text": "Comutare în sub 10 ms, suprasarcină de 160% timp de 60 s în regim off-grid."
+    },
+    {
+     "title": "Cuplare AC",
+     "text": "Funcționează și cu instalații fotovoltaice existente, pentru controlul injecției și utilizare off-grid."
+    },
+    {
+     "title": "Acces generator pe partea rețelei",
+     "text": ""
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 6 unități în paralel."
+    },
+    {
+     "title": "Funcționare off-grid doar cu PV și nivel de backup reglabil al bateriei",
+     "text": ""
+    },
+    {
+     "title": "Silențios (< 46,9 dB(A)), IP66, de la −25 la +60 °C",
+     "text": ""
+    }
+   ],
+   "description": [
+    "S6-EH3P(3-10)K-H este o familie de invertoare hibride trifazate pentru baterii litiu-ion de înaltă tensiune (120 – 600 V, cu suport până la 700 V). Se oferă în 10 variante: patru modele „K2“ (5, 6, 8 și 10 kW) și șase modele „-EU“ (3, 4, 5, 6, 8 și 10 kW). Cele mai mari modele au până la 4 MPPT, iar toate sunt fără transformator, cu răcire naturală și sub 46,9 dB(A)."
+   ],
+   "sections": [
+    {
+     "title": "Protecții integrate",
+     "paragraphs": [
+      "Protecție anti-insularizare, supracurent și scurtcircuit la ieșire, întrerupător DC integrat, polaritate inversă DC, supratensiune PV și polaritate inversă a bateriei. AFCI 2.0 este opțional. La modelele „-EU“ se oferă protecție la supratensiune DC tip II și AC tip II (opțional)."
+     ]
+    },
+    {
+     "title": "Standarde declarate de producător",
+     "bullets": [
+      "Conectare la rețea: G98 sau G99, VDE-AR-N 4105 / VDE V 0124, EN 50549-1, VDE 0126 / UTE C 15 / VFR:2019, RD 1699 / RD 244 / UNE 206006 / UNE 206007-1, CEI 0-21, C10/11, NRS 097-2-1, TOR, EIFS 2018.2, IEC 62116, IEC 61727, IEC 60068, IEC 61683, EN 50530, MEA, PEA, EK18.",
+      "Siguranță și EMC: IEC/EN 62109-1/-2, IEC/EN 61000-6-1/-3"
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / nominală / de pornire",
+       "value": "1000 V / 600 V / 160 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "200 – 850 V"
+      },
+      {
+       "label": "Baterie",
+       "value": "Litiu-ion, 120 – 600 V (suport până la 700 V)"
+      },
+      {
+       "label": "Comunicare baterie",
+       "value": "CAN / RS485"
+      },
+      {
+       "label": "Rețea",
+       "value": "3/N/PE, 380 V / 400 V; 50 / 60 Hz"
+      },
+      {
+       "label": "Interval tensiune de intrare AC",
+       "value": "304 – 437 V / 320 – 460 V"
+      },
+      {
+       "label": "Domeniu de frecvență",
+       "value": "45 – 55 Hz / 55 – 65 Hz"
+      },
+      {
+       "label": "Factor de putere / THDi",
+       "value": "> 0,99 (0,8 capacitiv – 0,8 inductiv) / < 3%"
+      },
+      {
+       "label": "Suprasarcină în backup",
+       "value": "1,6 × puterea nominală, 60 s"
+      },
+      {
+       "label": "Timp de comutare backup",
+       "value": "< 10 ms"
+      },
+      {
+       "label": "THDv (backup)",
+       "value": "< 2%"
+      },
+      {
+       "label": "Dezechilibru maxim de fază (rețea și backup)",
+       "value": "100%"
+      },
+      {
+       "label": "Putere maximă per fază",
+       "value": "50% din nominal"
+      },
+      {
+       "label": "Topologie",
+       "value": "Fără transformator"
+      },
+      {
+       "label": "Consum propriu (noaptea)",
+       "value": "< 25 W"
+      },
+      {
+       "label": "Temperatură / umiditate",
+       "value": "−25 – +60 °C / 0 – 100%"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP66"
+      },
+      {
+       "label": "Zgomot (tipic) / răcire",
+       "value": "< 46,9 dB(A) / naturală"
+      },
+      {
+       "label": "Altitudine maximă",
+       "value": "4000 m"
+      },
+      {
+       "label": "Conectare",
+       "value": "PV: MC4; baterie și AC: conector rapid"
+      },
+      {
+       "label": "Afișaj",
+       "value": "Indicator LED, Bluetooth, aplicație"
+      },
+      {
+       "label": "Comunicare",
+       "value": "CAN, RS485; opțional Wi-Fi, celular, LAN"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Specificații tehnice pe modele",
+     "columns": [
+      "Model",
+      "5K2",
+      "6K2",
+      "8K2",
+      "10K2",
+      "3K-EU",
+      "4K-EU",
+      "5K-EU",
+      "6K-EU",
+      "8K-EU",
+      "10K-EU"
+     ],
+     "rows": [
+      [
+       "Intrare PV",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Câmp PV recomandat (kW)",
+       "10",
+       "12",
+       "16",
+       "20",
+       "6",
+       "8",
+       "10",
+       "12",
+       "16",
+       "20"
+      ],
+      [
+       "Putere PV utilizabilă (kW)",
+       "8",
+       "9,6",
+       "12,8",
+       "16",
+       "4,8",
+       "6,4",
+       "8",
+       "9,6",
+       "12,8",
+       "16"
+      ],
+      [
+       "MPPT / string-uri",
+       "2 / 2",
+       "2 / 2",
+       "2 / 2",
+       "2 / 2",
+       "2 / 2",
+       "2 / 2",
+       "3 / 3",
+       "3 / 3",
+       "4 / 4",
+       "4 / 4"
+      ],
+      [
+       "Curent maxim de intrare PV (per MPPT)",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A",
+       "16 A"
+      ],
+      [
+       "Baterie",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere încărcare/descărcare (kW)",
+       "5",
+       "6",
+       "8",
+       "10",
+       "3",
+       "4",
+       "5",
+       "6",
+       "8",
+       "10"
+      ],
+      [
+       "Curent maxim încărcare/descărcare",
+       "25 A",
+       "25 A",
+       "50 A",
+       "50 A",
+       "25 A",
+       "25 A",
+       "25 A",
+       "25 A",
+       "50 A",
+       "50 A"
+      ],
+      [
+       "Tensiune minimă pentru puterea completă",
+       "200 V",
+       "240 V",
+       "160 V",
+       "200 V",
+       "120 V",
+       "160 V",
+       "200 V",
+       "240 V",
+       "160 V",
+       "200 V"
+      ],
+      [
+       "Ieșire AC (rețea)",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală / maximă aparentă",
+       "5 kW / 5 kVA",
+       "6 kW / 6 kVA",
+       "8 kW / 8 kVA",
+       "10 kW / 10 kVA",
+       "3 kW / 3 kVA",
+       "4 kW / 4 kVA",
+       "5 kW / 5 kVA",
+       "6 kW / 6 kVA",
+       "8 kW / 8 kVA",
+       "10 kW / 10 kVA"
+      ],
+      [
+       "Curent nominal și maxim (380 V / 400 V)",
+       "7,6 / 7,2 A",
+       "9,1 / 8,7 A",
+       "12,2 / 11,5 A",
+       "15,2 / 14,4 A",
+       "4,6 / 4,3 A",
+       "6,1 / 5,8 A",
+       "7,6 / 7,2 A",
+       "9,1 / 8,7 A",
+       "12,2 / 11,5 A",
+       "15,2 / 14,4 A"
+      ],
+      [
+       "Curent maxim de intrare AC",
+       "11,4 / 10,9 A",
+       "13,6 / 13,0 A",
+       "18,2 / 17,4 A",
+       "22,7 / 21,7 A",
+       "6,8 / 6,5 A",
+       "9,1 / 8,7 A",
+       "11,4 / 10,9 A",
+       "13,6 / 13,0 A",
+       "18,2 / 17,4 A",
+       "22,7 / 21,7 A"
+      ],
+      [
+       "Backup",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală",
+       "5 kW",
+       "6 kW",
+       "8 kW",
+       "10 kW",
+       "3 kW",
+       "4 kW",
+       "5 kW",
+       "6 kW",
+       "8 kW",
+       "10 kW"
+      ],
+      [
+       "Eficiență",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Maximă",
+       "96,50%",
+       "97,00%",
+       "97,50%",
+       "97,90%",
+       "95,50%",
+       "96,00%",
+       "96,50%",
+       "97,00%",
+       "97,50%",
+       "97,90%"
+      ],
+      [
+       "Europeană",
+       "96,77%",
+       "97,10%",
+       "97,41%",
+       "97,51%",
+       "95,51%",
+       "96,03%",
+       "96,77%",
+       "97,10%",
+       "97,41%",
+       "97,51%"
+      ],
+      [
+       "General",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Dimensiuni (L × Î × A, mm)",
+       "600 × 500 × 210",
+       "600 × 500 × 210",
+       "600 × 500 × 230",
+       "600 × 500 × 230",
+       "600 × 500 × 210",
+       "600 × 500 × 210",
+       "600 × 500 × 210",
+       "600 × 500 × 210",
+       "600 × 500 × 230",
+       "600 × 500 × 230"
+      ],
+      [
+       "Greutate",
+       "27,6 kg",
+       "27,6 kg",
+       "30,2 kg",
+       "30,2 kg",
+       "26,4 kg",
+       "26,4 kg",
+       "27,6 kg",
+       "27,6 kg",
+       "30,2 kg",
+       "30,2 kg"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "S6-EH3P-15-20K-H",
+  "slug": "solis-s6-eh3p-15-20-k-h",
+  "name": "Solis S6-EH3P(15-20)K-H",
+  "brand": "solis",
+  "category": "invertoare",
+  "subtitle": "Hibrid trifazat · baterie de înaltă tensiune · 15–20 kW · ecran 7\"",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "15 – 20 kW"
+   },
+   {
+    "label": "MPPT",
+    "value": "4 × 20 A"
+   },
+   {
+    "label": "Baterie",
+    "value": "120 – 800 V"
+   }
+  ],
+  "features": [
+   "4 MPPT independente",
+   "Intrare PV generoasă",
+   "Baterii de înaltă tensiune litiu-ion"
+  ],
+  "tags": [
+   "hibrid",
+   "trifazat",
+   "high-voltage",
+   "comercial"
+  ],
+  "powerW": 20000,
+  "phases": 3,
+  "details": {
+   "seoTitle": "Solis S6-EH3P(15-20)K-H — Hibrid trifazat",
+   "seoDescription": "Invertor hibrid trifazat de 15 sau 20 kW, cu 4 MPPT de 20 A, baterii de înaltă tensiune (120 – 800 V), backup în sub 10 ms și ecran color de 7\".",
+   "headline": "Invertor hibrid trifazat de 15 sau 20 kW, cu 4 MPPT de 20 A, baterii de înaltă tensiune (120 – 800 V), backup în sub 10 ms și ecran color de 7\".",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "15 – 20 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Trifazat 400 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "Li-ion 120 – 800 V"
+    },
+    {
+     "label": "MPPT",
+     "value": "4 × 20 A"
+    },
+    {
+     "label": "Comutare backup",
+     "value": "< 10 ms"
+    },
+    {
+     "label": "Afișaj",
+     "value": "Ecran color 7\""
+    }
+   ],
+   "benefits": [
+    {
+     "title": "4 MPPT independente",
+     "text": "Cu 20 A per intrare, pentru acoperișuri cu mai multe orientări sau cu umbrire parțială"
+    },
+    {
+     "title": "Intrare PV generoasă",
+     "text": "Putere PV utilizabilă de 24 kW (15K) sau 32 kW (20K), adică 160% din puterea nominală. Câmpul recomandat este de 30 kW, respectiv 40 kW (200%)."
+    },
+    {
+     "title": "Baterii de înaltă tensiune litiu-ion",
+     "text": "De la 120 la 800 V, cu un port de baterie și un port BMS (CAN / RS485)"
+    },
+    {
+     "title": "Backup fără întrerupere",
+     "text": "Comutare în sub 10 ms la un singur invertor și în sub 20 ms într-un sistem paralel."
+    },
+    {
+     "title": "Ieșire trifazată dezechilibrată",
+     "text": "Fiecare fază poate livra până la 40% din puterea nominală (6 kW la 15K, 8 kW la 20K, valori calculate)."
+    },
+    {
+     "title": "Intrare separată pentru generator (15 kW la 15K",
+     "text": "20 kW la 20K)"
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 6 invertoare în paralel, plus cuplare AC cu instalații fotovoltaice existente."
+    },
+    {
+     "title": "Conectivitate completă în standard",
+     "text": "Wi-Fi, LAN și Bluetooth, cu aplicație pentru configurare."
+    },
+    {
+     "title": "Interfețe pentru integrare",
+     "text": "CAN-BMS, 2 × CAN-Parallel, RS485 pentru contor, RS485, DRM, DI și 3 × DO."
+    },
+    {
+     "title": "Robust",
+     "text": "IP66, de la −25 la +60 °C, fără transformator, cu răcire inteligentă cu ventilatoare redundante."
+    },
+    {
+     "title": "Ecran LCD de 7\" pentru vizualizare și configurare locală",
+     "text": ""
+    }
+   ],
+   "description": [
+    "S6-EH3P(15-20)K-H este versiunea de mare putere a invertoarelor hibride trifazate Solis, pentru locuințe mari, clădiri comerciale și mici unități industriale. Gestionează panourile, bateria litiu-ion de înaltă tensiune și rețeaua. Are 4 intrări MPPT independente de câte 20 A, o intrare separată pentru generator și trece în regim de backup în sub 10 ms. Se oferă în două puteri: 15 kW și 20 kW."
+   ],
+   "sections": [
+    {
+     "title": "Protecții integrate",
+     "paragraphs": [
+      "Protecție la supratensiune DC tip II (AC tip II este opțională), supracurent la ieșire, monitorizare a rezistenței de izolație, detecție a curentului rezidual, întrerupător PV integrat, polaritate inversă DC și protecție anti-insularizare. Clasa de protecție este I. Categoria de supratensiune este II pentru PV și baterie și III pentru rețea, backup și generator."
+     ]
+    },
+    {
+     "title": "Standarde declarate de producător",
+     "bullets": [
+      "Conectare la rețea: EN 50549-1/-10, VDE 4105, CEI 0-21, CEI 0-16, NO-RFG tip B, NRS 097-2-1, LTU-1, G99, PEA.",
+      "Siguranță și EMC: IEC/EN 62109-1/-2, IEC/EN 61000-6-1/-2/-3/-4."
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Specificații pe modele",
+     "columns": [
+      "Parametru",
+      "15K",
+      "20K"
+     ],
+     "rows": [
+      [
+       "Intrare PV",
+       "",
+       ""
+      ],
+      [
+       "Câmp PV recomandat",
+       "30 kW",
+       "40 kW"
+      ],
+      [
+       "Putere PV utilizabilă",
+       "24 kW",
+       "32 kW"
+      ],
+      [
+       "Tensiune maximă / nominală / de pornire",
+       "1000 V / 600 V / 160 V",
+       "1000 V / 600 V / 160 V"
+      ],
+      [
+       "Interval MPPT",
+       "200 – 850 V",
+       "200 – 850 V"
+      ],
+      [
+       "Curent maxim de intrare / per intrare DC",
+       "4 × 20 A / 20 A",
+       "4 × 20 A / 20 A"
+      ],
+      [
+       "Curent maxim de scurtcircuit",
+       "4 × 30 A",
+       "4 × 30 A"
+      ],
+      [
+       "MPPT / string-uri",
+       "4 / 4",
+       "4 / 4"
+      ],
+      [
+       "Baterie",
+       "",
+       ""
+      ],
+      [
+       "Tip / interval de tensiune",
+       "Litiu-ion / 120 – 800 V",
+       "Litiu-ion / 120 – 800 V"
+      ],
+      [
+       "Curent maxim încărcare / descărcare",
+       "50 A",
+       "50 A"
+      ],
+      [
+       "Porturi baterie / porturi BMS",
+       "1 / 1",
+       "1 / 1"
+      ],
+      [
+       "Comunicare",
+       "CAN / RS485",
+       "CAN / RS485"
+      ],
+      [
+       "Ieșire AC (rețea)",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală / aparentă maximă",
+       "15 kW / 15 kVA",
+       "20 kW / 20 kVA"
+      ],
+      [
+       "Tensiune rețea",
+       "3/N/PE, 220 / 380 V, 230 / 400 V",
+       "3/N/PE, 220 / 380 V, 230 / 400 V"
+      ],
+      [
+       "Frecvență",
+       "50 / 60 Hz",
+       "50 / 60 Hz"
+      ],
+      [
+       "Curent nominal de ieșire (380 V / 400 V)",
+       "22,8 / 21,7 A",
+       "30,4 / 28,9 A"
+      ],
+      [
+       "Factor de putere / THDi",
+       "> 0,99 (0,8 capacitiv – 0,8 inductiv) / < 3%",
+       "> 0,99 (0,8 capacitiv – 0,8 inductiv) / < 3%"
+      ],
+      [
+       "Intrare AC (rețea)",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă de intrare",
+       "22,5 kW",
+       "30 kW"
+      ],
+      [
+       "Interval tensiune de intrare",
+       "304 – 437 V / 320 – 460 V",
+       "304 – 437 V / 320 – 460 V"
+      ],
+      [
+       "Curent maxim de intrare",
+       "34,2 / 32,5 A",
+       "45,6 / 43,3 A"
+      ],
+      [
+       "Ieșire AC (backup)",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală",
+       "15 kW",
+       "20 kW"
+      ],
+      [
+       "Putere aparentă maximă",
+       "1,6 × puterea nominală, 10 s",
+       "1,6 × puterea nominală, 10 s"
+      ],
+      [
+       "Timp de comutare",
+       "< 10 ms (invertor singular), < 20 ms (sistem paralel)",
+       "< 10 ms (invertor singular), < 20 ms (sistem paralel)"
+      ],
+      [
+       "Curent nominal de ieșire",
+       "22,8 / 21,7 A",
+       "30,4 / 28,9 A"
+      ],
+      [
+       "Curent maxim de trecere AC",
+       "34,2 / 32,5 A",
+       "45,6 / 43,3 A"
+      ],
+      [
+       "THDv (sarcină liniară)",
+       "< 3%",
+       "< 3%"
+      ],
+      [
+       "Intrare AC (generator)",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă de intrare",
+       "15 kW",
+       "20 kW"
+      ],
+      [
+       "Curent nominal de intrare",
+       "22,8 / 21,7 A",
+       "30,4 / 28,9 A"
+      ],
+      [
+       "Eficiență",
+       "",
+       ""
+      ],
+      [
+       "Maximă / europeană",
+       "97,7% / 97,5%",
+       "97,7% / 97,5%"
+      ],
+      [
+       "Încărcare baterie din PV / din AC (maximă)",
+       "98,5% / 97,2%",
+       "98,5% / 97,2%"
+      ],
+      [
+       "Descărcare baterie",
+       "97,2%",
+       "97,2%"
+      ],
+      [
+       "Date generale",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă per fază",
+       "40% din puterea nominală",
+       "40% din puterea nominală"
+      ],
+      [
+       "Dimensiuni (L × Î × A)",
+       "563 × 546 × 250 mm",
+       "563 × 546 × 250 mm"
+      ],
+      [
+       "Greutate",
+       "35,2 kg",
+       "35,2 kg"
+      ],
+      [
+       "Topologie",
+       "Fără transformator",
+       "Fără transformator"
+      ],
+      [
+       "Consum propriu",
+       "< 25 W",
+       "< 25 W"
+      ],
+      [
+       "Temperatură / umiditate relativă",
+       "−25 – +60 °C / 0 – 100%",
+       "−25 – +60 °C / 0 – 100%"
+      ],
+      [
+       "Grad de protecție",
+       "IP66",
+       "IP66"
+      ],
+      [
+       "Zgomot (tipic) / răcire",
+       "< 65 dB(A) / ventilatoare redundante inteligente",
+       "< 65 dB(A) / ventilatoare redundante inteligente"
+      ],
+      [
+       "Altitudine maximă",
+       "2000 m",
+       "2000 m"
+      ],
+      [
+       "Conectare",
+       "PV: MC4; baterie: terminal cu levier; AC: terminal OT",
+       "PV: MC4; baterie: terminal cu levier; AC: terminal OT"
+      ],
+      [
+       "Afișaj",
+       "LCD 7\" și Bluetooth + aplicație",
+       "LCD 7\" și Bluetooth + aplicație"
+      ],
+      [
+       "Comunicare (standard)",
+       "Wi-Fi + LAN + Bluetooth, CAN-BMS, CAN-Parallel × 2, RS485-Meter, RS485, DRM, DI, DO × 3",
+       "Wi-Fi + LAN + Bluetooth, CAN-BMS, CAN-Parallel × 2, RS485-Meter, RS485, DRM, DI, DO × 3"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "S6-EH3P-15-20K-ND-H",
+  "slug": "solis-s6-eh3p-15-20-k-nd-h",
+  "name": "Solis S6-EH3P(15-20)K-ND-H",
+  "brand": "solis",
+  "category": "invertoare",
+  "subtitle": "Hibrid trifazat · baterie de înaltă tensiune · 15–20 kW · fără ecran",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "15 – 20 kW"
+   },
+   {
+    "label": "MPPT",
+    "value": "4 × 20 A"
+   },
+   {
+    "label": "Baterie",
+    "value": "120 – 800 V"
+   }
+  ],
+  "features": [
+   "4 MPPT independente",
+   "Intrare PV generoasă",
+   "Baterii de înaltă tensiune litiu-ion"
+  ],
+  "tags": [
+   "hibrid",
+   "trifazat",
+   "high-voltage",
+   "comercial"
+  ],
+  "powerW": 20000,
+  "phases": 3,
+  "details": {
+   "seoTitle": "Solis S6-EH3P(15-20)K-ND-H — Hibrid trifazat",
+   "seoDescription": "Invertor hibrid trifazat de 15 sau 20 kW, cu 4 MPPT de 20 A, baterii de înaltă tensiune (120 – 800 V) și backup în sub 10 ms, cu indicator LED și configurare din aplicație.",
+   "headline": "Invertor hibrid trifazat de 15 sau 20 kW, cu 4 MPPT de 20 A, baterii de înaltă tensiune (120 – 800 V) și backup în sub 10 ms, cu indicator LED și configurare din aplicație.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "15 – 20 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Trifazat 400 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "Li-ion 120 – 800 V"
+    },
+    {
+     "label": "MPPT",
+     "value": "4 × 20 A"
+    },
+    {
+     "label": "Comutare backup",
+     "value": "< 10 ms"
+    },
+    {
+     "label": "Configurare",
+     "value": "LED + aplicație"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "4 MPPT independente",
+     "text": "Cu 20 A per intrare, pentru acoperișuri cu mai multe orientări sau cu umbrire parțială"
+    },
+    {
+     "title": "Intrare PV generoasă",
+     "text": "Putere PV utilizabilă de 24 kW (15K) sau 32 kW (20K), adică 160% din puterea nominală. Câmpul recomandat este de 30 kW, respectiv 40 kW (200%)."
+    },
+    {
+     "title": "Baterii de înaltă tensiune litiu-ion",
+     "text": "De la 120 la 800 V, cu un port de baterie și un port BMS (CAN / RS485)"
+    },
+    {
+     "title": "Backup fără întrerupere",
+     "text": "Comutare în sub 10 ms la un singur invertor și în sub 20 ms într-un sistem paralel."
+    },
+    {
+     "title": "Ieșire trifazată dezechilibrată",
+     "text": "Fiecare fază poate livra până la 40% din puterea nominală (6 kW la 15K, 8 kW la 20K, valori calculate)."
+    },
+    {
+     "title": "Intrare separată pentru generator (15 kW la 15K",
+     "text": "20 kW la 20K)"
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 6 invertoare în paralel, plus cuplare AC cu instalații fotovoltaice existente."
+    },
+    {
+     "title": "Conectivitate completă în standard",
+     "text": "Wi-Fi, LAN și Bluetooth, plus CAN-BMS, 2 × CAN-Parallel, RS485 pentru contor, RS485, DRM, DI și 3 × DO."
+    },
+    {
+     "title": "Mai compact decât varianta cu ecran",
+     "text": "563 × 546 × 235 mm (adâncime cu 15 mm mai mică)."
+    },
+    {
+     "title": "Robust",
+     "text": "IP66, de la −25 la +60 °C, fără transformator."
+    }
+   ],
+   "description": [
+    "S6-EH3P(15-20)K-ND-H este varianta fără ecran LCD a invertoarelor Solarator de 15 – 20 kW. Starea sistemului se vede pe un indicator LED, iar configurarea și monitorizarea se fac prin Bluetooth, Wi-Fi sau LAN din aplicație. Invertorul gestionează panourile, bateria litiu-ion de înaltă tensiune și rețeaua, are o intrare separată pentru generator și se oferă în două puteri: 15 kW și 20 kW. Este potrivit pentru locuințe mari, clădiri comerciale și mici unități industriale."
+   ],
+   "sections": [
+    {
+     "title": "Protecții integrate",
+     "paragraphs": [
+      "Protecție la supratensiune DC tip II (AC tip II este opțională), supracurent la ieșire, monitorizare a rezistenței de izolație, detecție a curentului rezidual, întrerupător PV integrat, polaritate inversă DC și protecție anti-insularizare. Clasa de protecție este I. Categoria de supratensiune este II pentru PV și baterie și III pentru rețea, backup și generator."
+     ]
+    },
+    {
+     "title": "Standarde declarate de producător",
+     "bullets": [
+      "Conectare la rețea: EN 50549-1/-10, VDE 4105, CEI 0-21, CEI 0-16, NO-RFG tip B, NRS 097-2-1, LTU-1, G99, PEA.",
+      "Siguranță și EMC: IEC/EN 62109-1/-2, IEC/EN 61000-6-1/-2/-3/-4."
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Specificații pe modele",
+     "columns": [
+      "Parametru",
+      "15K",
+      "20K"
+     ],
+     "rows": [
+      [
+       "Intrare PV",
+       "",
+       ""
+      ],
+      [
+       "Câmp PV recomandat",
+       "30 kW",
+       "40 kW"
+      ],
+      [
+       "Putere PV utilizabilă",
+       "24 kW",
+       "32 kW"
+      ],
+      [
+       "Tensiune maximă / nominală / de pornire",
+       "1000 V / 600 V / 160 V",
+       "1000 V / 600 V / 160 V"
+      ],
+      [
+       "Interval MPPT",
+       "200 – 850 V",
+       "200 – 850 V"
+      ],
+      [
+       "Curent maxim de intrare / per intrare DC",
+       "4 × 20 A / 20 A",
+       "4 × 20 A / 20 A"
+      ],
+      [
+       "Curent maxim de scurtcircuit",
+       "4 × 30 A",
+       "4 × 30 A"
+      ],
+      [
+       "MPPT / string-uri",
+       "4 / 4",
+       "4 / 4"
+      ],
+      [
+       "Baterie",
+       "",
+       ""
+      ],
+      [
+       "Tip / interval de tensiune",
+       "Litiu-ion / 120 – 800 V",
+       "Litiu-ion / 120 – 800 V"
+      ],
+      [
+       "Curent maxim încărcare / descărcare",
+       "50 A",
+       "50 A"
+      ],
+      [
+       "Porturi baterie / porturi BMS",
+       "1 / 1",
+       "1 / 1"
+      ],
+      [
+       "Comunicare",
+       "CAN / RS485",
+       "CAN / RS485"
+      ],
+      [
+       "Ieșire AC (rețea)",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală / aparentă maximă",
+       "15 kW / 15 kVA",
+       "20 kW / 20 kVA"
+      ],
+      [
+       "Tensiune rețea",
+       "3/N/PE, 220 / 380 V, 230 / 400 V",
+       "3/N/PE, 220 / 380 V, 230 / 400 V"
+      ],
+      [
+       "Frecvență",
+       "50 / 60 Hz",
+       "50 / 60 Hz"
+      ],
+      [
+       "Curent nominal de ieșire (380 V / 400 V)",
+       "22,8 / 21,7 A",
+       "30,4 / 28,9 A"
+      ],
+      [
+       "Factor de putere / THDi",
+       "> 0,99 (0,8 capacitiv – 0,8 inductiv) / < 3%",
+       "> 0,99 (0,8 capacitiv – 0,8 inductiv) / < 3%"
+      ],
+      [
+       "Intrare AC (rețea)",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă de intrare",
+       "22,5 kW",
+       "30 kW"
+      ],
+      [
+       "Interval tensiune de intrare",
+       "304 – 437 V / 320 – 460 V",
+       "304 – 437 V / 320 – 460 V"
+      ],
+      [
+       "Curent maxim de intrare",
+       "34,2 / 32,5 A",
+       "45,6 / 43,3 A"
+      ],
+      [
+       "Ieșire AC (backup)",
+       "",
+       ""
+      ],
+      [
+       "Putere nominală",
+       "15 kW",
+       "20 kW"
+      ],
+      [
+       "Putere aparentă maximă",
+       "1,6 × puterea nominală, 10 s",
+       "1,6 × puterea nominală, 10 s"
+      ],
+      [
+       "Timp de comutare",
+       "< 10 ms (invertor singular), < 20 ms (sistem paralel)",
+       "< 10 ms (invertor singular), < 20 ms (sistem paralel)"
+      ],
+      [
+       "Curent nominal de ieșire",
+       "22,8 / 21,7 A",
+       "30,4 / 28,9 A"
+      ],
+      [
+       "Curent maxim de trecere AC",
+       "34,2 / 32,5 A",
+       "45,6 / 43,3 A"
+      ],
+      [
+       "THDv (sarcină liniară)",
+       "< 3%",
+       "< 3%"
+      ],
+      [
+       "Intrare AC (generator)",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă de intrare",
+       "15 kW",
+       "20 kW"
+      ],
+      [
+       "Curent nominal de intrare",
+       "22,8 / 21,7 A",
+       "30,4 / 28,9 A"
+      ],
+      [
+       "Eficiență",
+       "",
+       ""
+      ],
+      [
+       "Maximă / europeană",
+       "97,7% / 97,5%",
+       "97,7% / 97,5%"
+      ],
+      [
+       "Încărcare baterie din PV / din AC (maximă)",
+       "98,5% / 97,2%",
+       "98,5% / 97,2%"
+      ],
+      [
+       "Descărcare baterie",
+       "97,2%",
+       "97,2%"
+      ],
+      [
+       "Date generale",
+       "",
+       ""
+      ],
+      [
+       "Putere maximă per fază",
+       "40% din puterea nominală",
+       "40% din puterea nominală"
+      ],
+      [
+       "Dimensiuni (L × Î × A)",
+       "563 × 546 × 235 mm",
+       "563 × 546 × 235 mm"
+      ],
+      [
+       "Greutate",
+       "35,2 kg",
+       "35,2 kg"
+      ],
+      [
+       "Topologie",
+       "Fără transformator",
+       "Fără transformator"
+      ],
+      [
+       "Consum propriu",
+       "< 25 W",
+       "< 25 W"
+      ],
+      [
+       "Temperatură / umiditate relativă",
+       "−25 – +60 °C / 0 – 100%",
+       "−25 – +60 °C / 0 – 100%"
+      ],
+      [
+       "Grad de protecție",
+       "IP66",
+       "IP66"
+      ],
+      [
+       "Zgomot (tipic) / răcire",
+       "< 65 dB(A) / ventilatoare redundante inteligente",
+       "< 65 dB(A) / ventilatoare redundante inteligente"
+      ],
+      [
+       "Altitudine maximă",
+       "2000 m",
+       "2000 m"
+      ],
+      [
+       "Conectare",
+       "PV: MC4; baterie: terminal cu levier; AC: terminal OT",
+       "PV: MC4; baterie: terminal cu levier; AC: terminal OT"
+      ],
+      [
+       "Afișaj",
+       "Indicator LED și Bluetooth + aplicație",
+       "Indicator LED și Bluetooth + aplicație"
+      ],
+      [
+       "Comunicare (standard)",
+       "Wi-Fi + LAN + Bluetooth, CAN-BMS, CAN-Parallel × 2, RS485-Meter, RS485, DRM, DI, DO × 3",
+       "Wi-Fi + LAN + Bluetooth, CAN-BMS, CAN-Parallel × 2, RS485-Meter, RS485, DRM, DI, DO × 3"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "HINEN-A-SERIES-S",
+  "slug": "hinen-a-series-a8000s-a15000s-monofazat",
+  "name": "Hinen A Series A8000S – A15000S (monofazat)",
+  "brand": "hinen",
+  "category": "invertoare",
+  "extraCategories": [
+   "baterii-stocare",
+   "kituri-complete"
+  ],
+  "subtitle": "All-in-one monofazat · 8–15 kW · baterie HV 8,99–17,97 kWh",
+  "image": "/images/products/hinen-a-series.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "8 – 15 kW"
+   },
+   {
+    "label": "Baterie",
+    "value": "8,99 – 17,97 kWh"
+   },
+   {
+    "label": "MPPT",
+    "value": "4"
+   }
+  ],
+  "features": [
+   "4 intrări MPPT independente",
+   "Alimentare off-grid la 230 V pentru întreaga locuință",
+   "Eficiență maximă de până la 98%"
+  ],
+  "tags": [
+   "all-in-one",
+   "hibrid",
+   "monofazat",
+   "high-voltage",
+   "rezidential"
+  ],
+  "powerW": 15000,
+  "phases": 1,
+  "capacityKWh": 17.97,
+  "details": {
+   "seoTitle": "Hinen A Series A8000S – A15000S (monofazat) — All-in-one monofazat",
+   "seoDescription": "Invertor hibrid monofazat cu 4 MPPT, backup în maximum 10 ms și baterie LiFePO₄ de înaltă tensiune, într-un sistem stivuibil plug & play.",
+   "headline": "Invertor hibrid monofazat cu 4 MPPT, backup în maximum 10 ms și baterie LiFePO₄ de înaltă tensiune, într-un sistem stivuibil plug & play.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "8 – 15 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Monofazat 230 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "LiFePO₄ HV, 8,985 kWh / modul"
+    },
+    {
+     "label": "MPPT",
+     "value": "4"
+    },
+    {
+     "label": "Comutare backup",
+     "value": "≤ 10 ms"
+    },
+    {
+     "label": "Eficiență maximă",
+     "value": "până la 98%"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "4 intrări MPPT independente",
+     "text": "Cu putere PV maximă recomandată de până la 22,5 kW (A12000S și A15000S)"
+    },
+    {
+     "title": "Alimentare off-grid la 230 V pentru întreaga locuință",
+     "text": "Până la puterea nominală a modelului ales"
+    },
+    {
+     "title": "Eficiență maximă de până la 98%",
+     "text": ""
+    },
+    {
+     "title": "Rețea și generator diesel",
+     "text": "Port GEN de 15 kVA și management inteligent al sarcinilor. Include port secundar de ieșire și pornire/oprire automată a generatorului prin contacte uscate."
+    },
+    {
+     "title": "Comutator manual integrat între modul backup și modul bypass pentru consumatorii de backup",
+     "text": ""
+    },
+    {
+     "title": "Comutare backup în maximum 10 ms",
+     "text": ""
+    },
+    {
+     "title": "Baterie modulară",
+     "text": "1–2 module în serie per cluster, cu BMS de înaltă tensiune dedicat și protecție IP65."
+    },
+    {
+     "title": "Comunicare CAN între invertor și baterie",
+     "text": ""
+    }
+   ],
+   "description": [
+    "Hinen A Series monofazat combină invertorul hibrid de 8, 10, 12 sau 15 kW, o cutie de control cu întrerupătoare integrate (rețea, backup, DC) și module de baterie LiFePO₄ de înaltă tensiune B8900M-HA de 8,985 kWh. Sistemul este stivuibil și nu necesită cabluri suplimentare. Se oferă în modelele A8000S, A10000S, A12000S și A15000S, plus variantele cu sufix „-E“."
+   ],
+   "sections": [
+    {
+     "title": "Baterie B8900M-HA (modulul sistemului)",
+     "paragraphs": [
+      "Capacitate per cluster: 1 modul = 8,985 kWh, 2 module = 17,97 kWh."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / de pornire / nominală",
+       "value": "550 V / 90 V / 360 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "100 – 530 V"
+      },
+      {
+       "label": "MPPT / string-uri per MPPT",
+       "value": "4 / 1-1-1-1"
+      },
+      {
+       "label": "Curent maxim PV per string / scurtcircuit DC",
+       "value": "16 A / 20 A"
+      },
+      {
+       "label": "Interval de tensiune baterie",
+       "value": "80 – 460 V"
+      },
+      {
+       "label": "Curent maxim încărcare / descărcare baterie",
+       "value": "45 A / 47 A"
+      },
+      {
+       "label": "Extindere baterie",
+       "value": "1–2 module de baterie în serie per cluster"
+      },
+      {
+       "label": "Comunicare baterie",
+       "value": "CAN"
+      },
+      {
+       "label": "Curent maxim AC de intrare (rețea)",
+       "value": "63 A"
+      },
+      {
+       "label": "Port GEN, putere aparentă maximă de intrare",
+       "value": "15000 VA"
+      },
+      {
+       "label": "Tensiune AC",
+       "value": "L/N/PE, 220 / 230 / 240 V"
+      },
+      {
+       "label": "Frecvență",
+       "value": "50 / 60 Hz"
+      },
+      {
+       "label": "THDi la sarcină plină",
+       "value": "< 3%"
+      },
+      {
+       "label": "Factor de putere",
+       "value": "> 0,99 (0,8 capacitiv – 0,8 inductiv)"
+      },
+      {
+       "label": "Timp de comutare backup",
+       "value": "≤ 10 ms"
+      },
+      {
+       "label": "Invertor (L × Î × A)",
+       "value": "730 × 637 × 180 mm, ≈ 61 kg"
+      },
+      {
+       "label": "Cutie de control",
+       "value": "Întrerupătoare Grid / Backup / DC integrate"
+      }
+     ]
+    },
+    {
+     "group": "Baterie B8900M-HA (modulul sistemului)",
+     "rows": [
+      {
+       "label": "Tehnologie",
+       "value": "LiFePO₄ (LFP)"
+      },
+      {
+       "label": "Tensiune nominală / capacitate",
+       "value": "172,8 V / 52 Ah"
+      },
+      {
+       "label": "Energie nominală",
+       "value": "8,985 kWh"
+      },
+      {
+       "label": "Curent maxim încărcare/descărcare",
+       "value": "52 A"
+      },
+      {
+       "label": "Temperatură de funcționare",
+       "value": "Încărcare: 0 – 55 °C; descărcare: −20 – 60 °C"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP65"
+      },
+      {
+       "label": "Dimensiuni (L × Î × A) / greutate",
+       "value": "730 × 510 × 180 mm / 83 kg"
+      },
+      {
+       "label": "BMS de înaltă tensiune",
+       "value": "135 – 583,2 VDC, 52 A, −20 – 60 °C, IP65, 730 × 160 × 180 mm, 10 kg"
+      },
+      {
+       "label": "Bază modul",
+       "value": "730 × 40 × 180 mm, 5,8 kg"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Clase de putere",
+     "columns": [
+      "Model",
+      "A8000S",
+      "A10000S",
+      "A12000S",
+      "A15000S"
+     ],
+     "rows": [
+      [
+       "Putere nominală de ieșire AC",
+       "8000 W",
+       "10000 W",
+       "12000 W",
+       "15000 W"
+      ],
+      [
+       "Curent AC nominal de ieșire",
+       "34,8 A",
+       "43,5 A",
+       "52,2 A",
+       "65,2 A"
+      ],
+      [
+       "Curent AC maxim de ieșire",
+       "36,4 A",
+       "45,5 A",
+       "54,6 A",
+       "68,2 A"
+      ],
+      [
+       "Putere PV maximă recomandată",
+       "16000 W",
+       "20000 W",
+       "22500 W",
+       "22500 W"
+      ],
+      [
+       "Putere maximă din rețea",
+       "8800 VA",
+       "16500 VA",
+       "16500 VA",
+       "16500 VA"
+      ],
+      [
+       "Putere maximă încărcare/descărcare baterie",
+       "15000 / 15000 W",
+       "15000 / 15000 W",
+       "15000 / 15000 W",
+       "15000 / 15000 W"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "HINEN-A-SERIES-T",
+  "slug": "hinen-a-series-a10000t-a25000t-trifazat",
+  "name": "Hinen A Series A10000T – A25000T (trifazat)",
+  "brand": "hinen",
+  "category": "invertoare",
+  "extraCategories": [
+   "baterii-stocare",
+   "kituri-complete"
+  ],
+  "subtitle": "All-in-one trifazat · 10–25 kW · baterie HV 8,99–26,96 kWh",
+  "image": "/images/products/hinen-a-series.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "10 – 25 kW"
+   },
+   {
+    "label": "Baterie",
+    "value": "8,99 – 26,96 kWh"
+   },
+   {
+    "label": "MPPT",
+    "value": "4"
+   }
+  ],
+  "features": [
+   "4 MPPT independente",
+   "Interval foarte larg de tensiune a bateriei",
+   "Ieșire trifazată dezechilibrată 100%"
+  ],
+  "tags": [
+   "all-in-one",
+   "hibrid",
+   "trifazat",
+   "high-voltage",
+   "rezidential",
+   "comercial"
+  ],
+  "powerW": 25000,
+  "phases": 3,
+  "capacityKWh": 26.955,
+  "details": {
+   "seoTitle": "Hinen A Series A10000T – A25000T (trifazat) — All-in-one trifazat",
+   "seoDescription": "Invertor hibrid trifazat cu 4 MPPT, ieșire dezechilibrată 100%, backup în maximum 10 ms și conectare în paralel a până la 6 invertoare.",
+   "headline": "Invertor hibrid trifazat cu 4 MPPT, ieșire dezechilibrată 100%, backup în maximum 10 ms și conectare în paralel a până la 6 invertoare.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "10 – 25 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Trifazat, ieșire dezechilibrată 100%"
+    },
+    {
+     "label": "Baterie",
+     "value": "LiFePO₄ HV, 1–3 module"
+    },
+    {
+     "label": "MPPT",
+     "value": "4"
+    },
+    {
+     "label": "Comutare backup",
+     "value": "≤ 10 ms"
+    },
+    {
+     "label": "Paralel",
+     "value": "până la 6 invertoare"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "4 MPPT independente",
+     "text": "Cu până la 30 kW putere PV recomandată, tensiune PV de până la 1000 V și 16 A per string"
+    },
+    {
+     "title": "Interval foarte larg de tensiune a bateriei",
+     "text": "120 – 600 V."
+    },
+    {
+     "title": "Ieșire trifazată dezechilibrată 100%",
+     "text": ""
+    },
+    {
+     "title": "Conectare în paralel",
+     "text": "Până la 6 invertoare, cu putere de ieșire de până la 150 kW (6 × 25 kW) și stocare de până la 160,2 kWh."
+    },
+    {
+     "title": "Secvența fazelor nu contează",
+     "text": "Deci instalarea este mai flexibilă"
+    },
+    {
+     "title": "Buton fizic de oprire de urgență (EPO) integrat",
+     "text": ""
+    },
+    {
+     "title": "Comutator manual integrat între modul backup și modul bypass; comutare backup în maximum 10 ms",
+     "text": ""
+    },
+    {
+     "title": "Baterie modulară",
+     "text": "1–3 module în serie per cluster, cu BMS dedicat și protecție IP65."
+    }
+   ],
+   "description": [
+    "Hinen A Series trifazat combină invertorul hibrid de 10, 15, 20 sau 25 kW, cutia de control cu întrerupătoare integrate și module de baterie LiFePO₄ de înaltă tensiune B8900M-HA de 8,985 kWh, într-un sistem stivuibil fără cabluri suplimentare. Se oferă în modelele A10000T, A15000T, A20000T și A25000T, plus variantele cu sufix „-E“."
+   ],
+   "sections": [
+    {
+     "title": "Baterie B8900M-HA",
+     "paragraphs": [
+      "Aceeași ca la seria monofazată: LiFePO₄, 172,8 V, 52 Ah, 8,985 kWh, IP65, 730 × 510 × 180 mm, 83 kg. Încărcare 0 – 55 °C, descărcare −20 – 60 °C. BMS de înaltă tensiune: 135 – 583,2 VDC, 52 A, 10 kg. Bază modul: 5,8 kg."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / de pornire / nominală",
+       "value": "1000 V / 120 V / 600 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "140 – 950 V"
+      },
+      {
+       "label": "MPPT / string-uri per MPPT",
+       "value": "4 / 1-1-1-1"
+      },
+      {
+       "label": "Curent maxim PV per string / scurtcircuit",
+       "value": "16 A / 22 A"
+      },
+      {
+       "label": "Interval de tensiune baterie",
+       "value": "120 – 600 V"
+      },
+      {
+       "label": "Curent maxim încărcare / descărcare baterie",
+       "value": "45 A / 45 A"
+      },
+      {
+       "label": "Extindere baterie",
+       "value": "1–3 module în serie per cluster"
+      },
+      {
+       "label": "Extindere invertoare",
+       "value": "Până la 6 invertoare în paralel"
+      },
+      {
+       "label": "Comunicare baterie",
+       "value": "CAN"
+      },
+      {
+       "label": "Tensiune AC",
+       "value": "400 / 230 V, 3L/N/PE"
+      },
+      {
+       "label": "Frecvență",
+       "value": "50 / 60 Hz"
+      },
+      {
+       "label": "THDi la sarcină plină",
+       "value": "< 3%"
+      },
+      {
+       "label": "Factor de putere",
+       "value": "> 0,99 (0,8 capacitiv – 0,8 inductiv)"
+      },
+      {
+       "label": "Timp de comutare backup",
+       "value": "≤ 10 ms"
+      },
+      {
+       "label": "Invertor (L × Î × A)",
+       "value": "730 × 637 × 180 mm, ≈ 59 kg"
+      },
+      {
+       "label": "Cutie de control",
+       "value": "Întrerupătoare Grid / Backup / DC integrate"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Clase de putere",
+     "columns": [
+      "Model",
+      "A10000T",
+      "A15000T",
+      "A20000T",
+      "A25000T"
+     ],
+     "rows": [
+      [
+       "Putere nominală de ieșire AC",
+       "10000 W",
+       "15000 W",
+       "20000 W",
+       "25000 W"
+      ],
+      [
+       "Curent AC nominal de ieșire",
+       "14,5 A",
+       "21,8 A",
+       "29 A",
+       "36,3 A"
+      ],
+      [
+       "Curent AC maxim de ieșire",
+       "15,2 A",
+       "22,8 A",
+       "30,4 A",
+       "38 A"
+      ],
+      [
+       "Putere maximă de intrare din rețea",
+       "10000 VA",
+       "15000 VA",
+       "20000 VA",
+       "20000 VA"
+      ],
+      [
+       "Curent AC maxim de intrare",
+       "30,4 A",
+       "30,4 A",
+       "30,4 A",
+       "38 A"
+      ],
+      [
+       "Putere PV maximă recomandată",
+       "30000 W",
+       "30000 W",
+       "30000 W",
+       "30000 W"
+      ],
+      [
+       "Putere maximă încărcare/descărcare baterie",
+       "20000 W",
+       "20000 W",
+       "20000 W",
+       "20000 W"
+      ]
+     ]
+    },
+    {
+     "title": "Baterie B8900M-HA",
+     "columns": [
+      "Module în serie",
+      "1",
+      "2",
+      "3"
+     ],
+     "rows": [
+      [
+       "Energie nominală",
+       "8,985 kWh",
+       "17,97 kWh",
+       "26,955 kWh"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "HINEN-E2400AC",
+  "slug": "hinen-e2400ac-stocare-pentru-balcon-cuplare-ac",
+  "name": "Hinen E2400AC (stocare pentru balcon, cuplare AC)",
+  "brand": "hinen",
+  "category": "baterii-stocare",
+  "subtitle": "Stocare balcon · 2400 W · 2,56–15,36 kWh",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "2,56 – 15,36 kWh"
+   },
+   {
+    "label": "Putere AC",
+    "value": "2400 W"
+   },
+   {
+    "label": "Cicluri",
+    "value": "8000"
+   }
+  ],
+  "features": [
+   "Design integrat și stivuibil",
+   "Scalabil de la 2,56 kWh la 15,36 kWh",
+   "Aplicație cu mai multe moduri de control și monitorizare în timp real "
+  ],
+  "tags": [
+   "low-voltage",
+   "rezidential",
+   "balcon"
+  ],
+  "capacityKWh": 15.36,
+  "details": {
+   "seoTitle": "Hinen E2400AC (stocare pentru balcon, cuplare AC) — Stocare balcon",
+   "seoDescription": "Microinvertor și baterie LiFePO₄ într-un sistem stivuibil compact, cu IP65 și 8000+ cicluri.",
+   "headline": "Microinvertor și baterie LiFePO₄ într-un sistem stivuibil compact, cu IP65 și 8000+ cicluri.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "2,56 – 15,36 kWh"
+    },
+    {
+     "label": "Modul baterie",
+     "value": "LiFePO₄ 2,56 kWh"
+    },
+    {
+     "label": "Putere AC",
+     "value": "2400 W"
+    },
+    {
+     "label": "Cicluri",
+     "value": "8000"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP65"
+    },
+    {
+     "label": "Conectivitate",
+     "value": "Bluetooth, Wi-Fi"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Design integrat și stivuibil",
+     "text": "Baterie și microinvertor în același sistem."
+    },
+    {
+     "title": "Scalabil de la 2,56 kWh la 15,36 kWh",
+     "text": ""
+    },
+    {
+     "title": "Aplicație cu mai multe moduri de control și monitorizare în timp real la distanță. Conectivitate Bluetooth și Wi-Fi 2,4 GHz",
+     "text": ""
+    },
+    {
+     "title": "Carcasă IP65",
+     "text": "Pentru instalare în interior sau în exterior, și funcționare silențioasă (30 dB, conform producătorului)"
+    },
+    {
+     "title": "Baterie LiFePO₄",
+     "text": "Cu peste 8000 de cicluri și 10 ani garanție (conform producătorului)"
+    },
+    {
+     "title": "Încărcare și descărcare 1C (100 A, 2560 W)",
+     "text": ""
+    }
+   ],
+   "description": [
+    "Hinen E2400AC este un sistem de stocare cuplat în curent alternativ (AC), pentru instalații de tip „balcon“. Combină bateria și microinvertorul într-un design stivuibil și oferă până la 2400 W către rețea. Capacitatea crește prin module de baterie E2560B de 2,56 kWh, până la 15,36 kWh. Spre deosebire de E2400S, nu are intrare PV."
+   ],
+   "sections": [
+    {
+     "title": "Specificații tehnice",
+     "paragraphs": [
+      "Capacitate: n × 2,56 kWh, adică 2,56 / 5,12 / 7,68 / 10,24 / 12,80 / 15,36 kWh pentru 1–6 module."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Specificații tehnice",
+     "rows": [
+      {
+       "label": "Model",
+       "value": "E2400AC (+ module E2560B)"
+      },
+      {
+       "label": "Tehnologie",
+       "value": "LiFePO₄"
+      },
+      {
+       "label": "Capacitate nominală",
+       "value": "100 Ah / 2560 Wh"
+      },
+      {
+       "label": "Tensiune nominală baterie",
+       "value": "25,6 VDC"
+      },
+      {
+       "label": "Cicluri de viață",
+       "value": "8000"
+      },
+      {
+       "label": "Conectivitate",
+       "value": "Bluetooth, Wi-Fi 2,4 GHz"
+      }
+     ]
+    },
+    {
+     "group": "Rețea (on-grid)",
+     "rows": [
+      {
+       "label": "Putere maximă din rețea / curent maxim de intrare",
+       "value": "2400 W / 10,9 A"
+      },
+      {
+       "label": "Putere nominală de ieșire AC",
+       "value": "600 / 800 / 1200 / 1500 / 2000 / 2400 W"
+      },
+      {
+       "label": "Curent maxim de ieșire AC",
+       "value": "2,8 / 3,7 / 5,5 / 6,9 / 9,1 / 10,9 A"
+      },
+      {
+       "label": "Tensiune AC / frecvență",
+       "value": "L/N/PE, 220 / 230 / 240 V* / 50 / 60 Hz"
+      },
+      {
+       "label": "THDi / factor de putere",
+       "value": "< 3% la putere nominală / 1 (−0,8 … +0,8)"
+      }
+     ]
+    },
+    {
+     "group": "Off-grid",
+     "rows": [
+      {
+       "label": "Putere maximă AC",
+       "value": "2000 W (2000 VA)"
+      },
+      {
+       "label": "Factor de putere",
+       "value": "−0,8 … +0,8"
+      },
+      {
+       "label": "Curent maxim de ieșire",
+       "value": "4,4 A / 8,7 A"
+      }
+     ]
+    },
+    {
+     "group": "Baterie",
+     "rows": [
+      {
+       "label": "Curent maxim încărcare / descărcare",
+       "value": "100 A / 100 A"
+      },
+      {
+       "label": "Putere maximă încărcare / descărcare",
+       "value": "2560 W / 2560 W"
+      },
+      {
+       "label": "Număr extensibil de baterii / capacitate maximă",
+       "value": "6 / 15360 Wh"
+      },
+      {
+       "label": "Temperatură de funcționare",
+       "value": "Încărcare: −20 – 55 °C; descărcare: −20 – 60 °C"
+      },
+      {
+       "label": "Topologie",
+       "value": "PV către baterie neizolată; PV/baterie către AC izolată (înaltă frecvență)"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "HINEN-E2400S",
+  "slug": "hinen-e2400s-stocare-pentru-balcon-4-mppt",
+  "name": "Hinen E2400S (stocare pentru balcon, 4 MPPT)",
+  "brand": "hinen",
+  "category": "baterii-stocare",
+  "subtitle": "Stocare balcon · 4 MPPT · 2400 W · 2,56–15,36 kWh",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "2,56 – 15,36 kWh"
+   },
+   {
+    "label": "Intrare PV",
+    "value": "3600 W"
+   },
+   {
+    "label": "MPPT",
+    "value": "4"
+   }
+  ],
+  "features": [
+   "4 trackere MPPT independente",
+   "Design integrat și stivuibil",
+   "Scalabil de la 2,56 kWh la 15,36 kWh"
+  ],
+  "tags": [
+   "low-voltage",
+   "rezidential",
+   "balcon"
+  ],
+  "capacityKWh": 15.36,
+  "details": {
+   "seoTitle": "Hinen E2400S (stocare pentru balcon, 4 MPPT) — Stocare balcon",
+   "seoDescription": "Microinvertor cu 4 MPPT și baterie LiFePO₄ într-un sistem stivuibil, cu intrare PV de până la 3600 W și protecție IP65.",
+   "headline": "Microinvertor cu 4 MPPT și baterie LiFePO₄ într-un sistem stivuibil, cu intrare PV de până la 3600 W și protecție IP65.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "2,56 – 15,36 kWh"
+    },
+    {
+     "label": "Modul baterie",
+     "value": "LiFePO₄ 2,56 kWh"
+    },
+    {
+     "label": "Intrare PV",
+     "value": "până la 3600 W"
+    },
+    {
+     "label": "MPPT",
+     "value": "4"
+    },
+    {
+     "label": "Cicluri",
+     "value": "8000"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP65"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "4 trackere MPPT independente",
+     "text": "Cu putere PV maximă de 3600 W (total)"
+    },
+    {
+     "title": "Design integrat și stivuibil",
+     "text": "Baterie și microinvertor într-un singur sistem."
+    },
+    {
+     "title": "Scalabil de la 2,56 kWh la 15,36 kWh",
+     "text": ""
+    },
+    {
+     "title": "Aplicație cu mai multe moduri de control",
+     "text": "Monitorizare în timp real și administrare la distanță. Conectivitate Bluetooth și Wi-Fi 2,4 GHz"
+    },
+    {
+     "title": "Carcasă IP65 pentru interior sau exterior și funcționare silențioasă (30 dB",
+     "text": "Conform producătorului)"
+    },
+    {
+     "title": "Baterie LiFePO₄",
+     "text": "Cu peste 8000 de cicluri și 10 ani garanție (conform producătorului)"
+    },
+    {
+     "title": "Încărcare și descărcare 1C",
+     "text": ""
+    }
+   ],
+   "description": [
+    "Hinen E2400S este un sistem de stocare monofazat pentru balcon, cu intrare PV proprie (4 trackere MPPT independente, până la 3600 W). Combină microinvertorul și bateria într-un design stivuibil. Capacitatea crește prin module E2560B de 2,56 kWh, până la 15,36 kWh."
+   ],
+   "sections": [
+    {
+     "title": "Specificații tehnice",
+     "paragraphs": [
+      "Capacitate: n × 2,56 kWh, adică 2,56 – 15,36 kWh."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Specificații tehnice",
+     "rows": [
+      {
+       "label": "Model",
+       "value": "E2400S (+ module E2560B)"
+      },
+      {
+       "label": "Tehnologie",
+       "value": "LiFePO₄"
+      },
+      {
+       "label": "Capacitate nominală",
+       "value": "100 Ah / 2560 Wh"
+      },
+      {
+       "label": "Tensiune nominală baterie",
+       "value": "25,6 VDC"
+      },
+      {
+       "label": "Cicluri de viață",
+       "value": "8000"
+      },
+      {
+       "label": "Conectivitate",
+       "value": "Bluetooth, Wi-Fi 2,4 GHz"
+      }
+     ]
+    },
+    {
+     "group": "Intrare PV",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă",
+       "value": "60 VDC"
+      },
+      {
+       "label": "Interval de tensiune de lucru",
+       "value": "28 – 60 VDC"
+      },
+      {
+       "label": "Curent maxim de intrare",
+       "value": "20 A (per canal)"
+      },
+      {
+       "label": "Curent maxim de scurtcircuit (Isc)",
+       "value": "24 A"
+      },
+      {
+       "label": "Putere maximă MPPT",
+       "value": "3600 W"
+      },
+      {
+       "label": "Număr MPPT",
+       "value": "4"
+      }
+     ]
+    },
+    {
+     "group": "Rețea (on-grid)",
+     "rows": [
+      {
+       "label": "Putere maximă din rețea / curent maxim de intrare",
+       "value": "2400 W / 10,9 A"
+      },
+      {
+       "label": "Putere nominală de ieșire AC",
+       "value": "600 / 800 / 1200 / 1500 / 2000 / 2400 W"
+      },
+      {
+       "label": "Curent maxim de ieșire AC",
+       "value": "2,8 / 3,7 / 5,5 / 6,9 / 9,1 / 10,9 A"
+      },
+      {
+       "label": "Tensiune AC / frecvență",
+       "value": "L/N/PE, 220 / 230 / 240 V / 50 / 60 Hz"
+      },
+      {
+       "label": "THDi / factor de putere",
+       "value": "< 3% la putere nominală / 1 (−0,8 … +0,8)"
+      }
+     ]
+    },
+    {
+     "group": "Off-grid",
+     "rows": [
+      {
+       "label": "Putere maximă AC",
+       "value": "1000 W / 2000 W (1000 VA / 2000 VA)"
+      },
+      {
+       "label": "Factor de putere",
+       "value": "−0,8 … +0,8"
+      },
+      {
+       "label": "Tensiune nominală",
+       "value": "230 VAC"
+      },
+      {
+       "label": "Curent maxim de ieșire",
+       "value": "4,4 A / 8,7 A"
+      }
+     ]
+    },
+    {
+     "group": "Baterie",
+     "rows": [
+      {
+       "label": "Curent maxim încărcare / descărcare",
+       "value": "100 A / 100 A"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "HYX-E50-LR",
+  "slug": "hyxipower-hyx-e50-lr-5-12-kwh",
+  "name": "HYXiPOWER HYX-E50-LR 5,12 kWh",
+  "brand": "hyxipower",
+  "category": "baterii-stocare",
+  "subtitle": "51,2 V · 100 Ah · perete sau podea",
+  "image": "/images/products/hyxipower-hyx-e50-lr.webp",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "5,12 kWh"
+   },
+   {
+    "label": "Tensiune",
+    "value": "51,2 V LV"
+   },
+   {
+    "label": "Cicluri",
+    "value": "6000"
+   }
+  ],
+  "features": [
+   "Modular",
+   "Dublă protecție",
+   "Monitorizare locală"
+  ],
+  "tags": [
+   "low-voltage",
+   "rezidential"
+  ],
+  "capacityKWh": 5.12,
+  "details": {
+   "seoTitle": "HYXiPOWER HYX-E50-LR 5,12 kWh — 51,2 V",
+   "seoDescription": "Modul de stocare de 5,12 kWh, extensibil până la 81,92 kWh, cu 6000 de cicluri și 5 ani garanție.",
+   "headline": "Modul de stocare de 5,12 kWh, extensibil până la 81,92 kWh, cu 6000 de cicluri și 5 ani garanție.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "5,12 kWh"
+    },
+    {
+     "label": "Tensiune",
+     "value": "51,2 V / 100 Ah"
+    },
+    {
+     "label": "Extindere",
+     "value": "până la 81,92 kWh"
+    },
+    {
+     "label": "Cicluri",
+     "value": "6000 la 90% DoD"
+    },
+    {
+     "label": "Montaj",
+     "value": "Perete sau podea"
+    },
+    {
+     "label": "Garanție",
+     "value": "5 ani"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Modular",
+     "text": "Până la 16 module în paralel (1 master + 15 slave, adresare prin comutator DIP), adică 81,92 kWh."
+    },
+    {
+     "title": "Dublă protecție",
+     "text": "BMS și protecție de circuit, plus protecție la supratemperatură, supracurent, scurtcircuit, supraîncărcare și descărcare excesivă."
+    },
+    {
+     "title": "Monitorizare locală",
+     "text": "6 LED-uri pentru nivelul de încărcare (SOC), indicatoare RUN și ALM, plus contact uscat normal-deschis pentru semnalizarea externă a defectelor."
+    },
+    {
+     "title": "Comunicare cu invertorul",
+     "text": "RS485 și CAN 2.0."
+    },
+    {
+     "title": "Durată de viață",
+     "text": "6000 de cicluri la 90% DoD, până la 70% SOH rămas."
+    },
+    {
+     "title": "Instalare flexibilă",
+     "text": "Pe perete (console incluse) sau pe podea (stivuire cu console opționale)."
+    },
+    {
+     "title": "Compact",
+     "text": "133 mm înălțime și aproximativ 41 kg."
+    },
+    {
+     "title": "Garanție de 5 ani",
+     "text": ""
+    }
+   ],
+   "description": [
+    "HYXi HYX-E50-LR este un modul de baterie LiFePO₄ de 51,2 V și 100 Ah, cu energie nominală de 5,12 kWh. Se montează pe perete sau pe podea, în interior (IP20), și se extinde prin conectare în paralel până la 16 module. Fiecare modul are BMS propriu cu dublă protecție, indicatoare LED pentru starea de încărcare și comunicare RS485 / CAN 2.0 cu invertorul."
+   ],
+   "specs": [
+    {
+     "group": "Specificații tehnice",
+     "rows": [
+      {
+       "label": "Model",
+       "value": "HYX-E50-LR"
+      },
+      {
+       "label": "Producător",
+       "value": "Zhejiang Hyxi Technology Co., Ltd. (HYXiPOWER)"
+      },
+      {
+       "label": "Tehnologie",
+       "value": "LiFePO₄ (16 grupuri în serie, câte 4 celule în paralel)"
+      },
+      {
+       "label": "Energie nominală",
+       "value": "5,12 kWh (25 °C, la începutul duratei de viață)"
+      },
+      {
+       "label": "Capacitate nominală",
+       "value": "100 Ah"
+      },
+      {
+       "label": "Tensiune nominală",
+       "value": "51,2 V"
+      },
+      {
+       "label": "Interval de tensiune de funcționare",
+       "value": "40 – 58,4 V"
+      },
+      {
+       "label": "Curent nominal încărcare/descărcare",
+       "value": "50 A (≈ 2,56 kW la 51,2 V)"
+      },
+      {
+       "label": "Curent continuu maxim încărcare/descărcare",
+       "value": "100 A (≈ 5,12 kW la 51,2 V)"
+      },
+      {
+       "label": "Cicluri de viață",
+       "value": "6000 (90% DoD, 70% SOH)"
+      },
+      {
+       "label": "Extindere",
+       "value": "Max. 16 module în paralel (81,92 kWh)"
+      },
+      {
+       "label": "Comunicare",
+       "value": "RS485 / CAN 2.0; contact uscat pentru alarmă"
+      },
+      {
+       "label": "Indicatoare",
+       "value": "LED (SOC, RUN, ALM)"
+      },
+      {
+       "label": "Temperatură de funcționare",
+       "value": "Încărcare: 0 – 55 °C; descărcare: −10 – 50 °C"
+      },
+      {
+       "label": "Umiditate relativă",
+       "value": "5% – 95%"
+      },
+      {
+       "label": "Altitudine",
+       "value": "≤ 3000 m"
+      },
+      {
+       "label": "Răcire",
+       "value": "Convecție naturală"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP20 (instalare în interior)"
+      },
+      {
+       "label": "Montaj",
+       "value": "Pe perete sau pe podea"
+      },
+      {
+       "label": "Dimensiuni (L × Î × A)",
+       "value": "443 × 133 × 492 mm"
+      },
+      {
+       "label": "Greutate",
+       "value": "≈ 41 kg"
+      }
+     ]
+    }
+   ],
+   "manufacturer": "Zhejiang Hyxi Technology Co., Ltd. (HYXiPOWER)"
+  }
+ },
+ {
+  "sku": "HYX-E160-L",
+  "slug": "hyxipower-hyx-e160-l-16-07-kwh",
+  "name": "HYXiPOWER HYX-E160-L 16,07 kWh",
+  "brand": "hyxipower",
+  "category": "baterii-stocare",
+  "subtitle": "51,2 V · 314 Ah · pe roți",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "16,07 kWh"
+   },
+   {
+    "label": "Tensiune",
+    "value": "51,2 V LV"
+   },
+   {
+    "label": "Cicluri",
+    "value": "6000"
+   }
+  ],
+  "features": [
+   "Capacitate mare într-o singură unitate",
+   "Extindere",
+   "Instalare ușoară"
+  ],
+  "tags": [
+   "low-voltage",
+   "rezidential"
+  ],
+  "capacityKWh": 16.07,
+  "details": {
+   "seoTitle": "HYXiPOWER HYX-E160-L 16,07 kWh — 51,2 V",
+   "seoDescription": "Modul de stocare de 16,07 kWh, pe roți, extensibil până la 241,05 kWh, cu 6000 de cicluri și 5 ani garanție.",
+   "headline": "Modul de stocare de 16,07 kWh, pe roți, extensibil până la 241,05 kWh, cu 6000 de cicluri și 5 ani garanție.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "16,07 kWh"
+    },
+    {
+     "label": "Tensiune",
+     "value": "51,2 V / 314 Ah"
+    },
+    {
+     "label": "Curent maxim",
+     "value": "200 A"
+    },
+    {
+     "label": "Extindere",
+     "value": "până la 241,05 kWh"
+    },
+    {
+     "label": "Montaj",
+     "value": "Pe podea, cu roți"
+    },
+    {
+     "label": "Garanție",
+     "value": "5 ani"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Capacitate mare într-o singură unitate",
+     "text": "16,07 kWh nominali și curent maxim continuu de 200 A."
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 15 unități în paralel, adică 241,05 kWh nominali."
+    },
+    {
+     "title": "Instalare ușoară",
+     "text": "Roți integrate (blocabile) și design compact, de 480 × 830 × 230 mm."
+    },
+    {
+     "title": "Disjunctor și buton de pornire pe unitate",
+     "text": "Deci conectarea și deconectarea de la invertor se fac direct de la baterie"
+    },
+    {
+     "title": "Dublă protecție",
+     "text": "BMS și protecție de circuit, plus protecție la supratemperatură, supracurent, scurtcircuit, supraîncărcare și descărcare excesivă."
+    },
+    {
+     "title": "Afișaj LED",
+     "text": "Nivelul de încărcare pe 5 trepte (0–20%, 20–40%, 40–60%, 60–80%, 80–100%) și indicator de stare (verde: funcționare normală; roșu: defect)."
+    },
+    {
+     "title": "Autodescărcare redusă",
+     "text": "Sub 2% pe lună."
+    },
+    {
+     "title": "Răcire naturală",
+     "text": "Nu are cerințe de ventilație."
+    },
+    {
+     "title": "Garanție de 5 ani",
+     "text": ""
+    }
+   ],
+   "description": [
+    "HYXi HYX-E160-L este o baterie litiu-ion de joasă tensiune, de 51,2 V și 314 Ah, cu o energie nominală de 16,07 kWh. Se montează pe podea, în interior (IP20), și are roți integrate, care ușurează poziționarea unei unități de 130 kg. Se fixează de perete cu șuruburi de expansiune și se extinde prin conectare în paralel până la 15 unități. Comunică cu invertorul prin RS485 / CAN 2.0 și are afișaj LED pentru nivelul de încărcare și starea sistemului."
+   ],
+   "specs": [
+    {
+     "group": "Specificații tehnice",
+     "rows": [
+      {
+       "label": "Model",
+       "value": "HYX-E160-L"
+      },
+      {
+       "label": "Producător",
+       "value": "Zhejiang Hyxi Technology Co., Ltd. (HYXiPOWER)"
+      },
+      {
+       "label": "Tehnologie",
+       "value": "Litiu-ion, configurație 1P16S"
+      },
+      {
+       "label": "Energie nominală",
+       "value": "16,07 kWh"
+      },
+      {
+       "label": "Capacitate nominală",
+       "value": "314 Ah"
+      },
+      {
+       "label": "Tensiune nominală",
+       "value": "51,2 V"
+      },
+      {
+       "label": "Interval de tensiune de funcționare",
+       "value": "43,2 – 58,4 V"
+      },
+      {
+       "label": "Curent nominal încărcare/descărcare",
+       "value": "157 A (≈ 8,04 kW la 51,2 V)"
+      },
+      {
+       "label": "Curent continuu maxim încărcare/descărcare",
+       "value": "200 A (≈ 10,24 kW la 51,2 V)"
+      },
+      {
+       "label": "Cicluri de viață",
+       "value": "6000 (90% DoD, 25 ± 2 °C)"
+      },
+      {
+       "label": "Autodescărcare",
+       "value": "< 2% pe lună"
+      },
+      {
+       "label": "Egalizare celule",
+       "value": "Pasivă"
+      },
+      {
+       "label": "Comunicare",
+       "value": "RS485 / CAN 2.0 (RJ45)"
+      },
+      {
+       "label": "Afișaj",
+       "value": "LED"
+      },
+      {
+       "label": "Extindere",
+       "value": "Max. 15 unități în paralel (241,05 kWh)"
+      },
+      {
+       "label": "Temperatură de încărcare",
+       "value": "0 – 55 °C"
+      },
+      {
+       "label": "Temperatură de descărcare",
+       "value": "−20 – 55 °C"
+      },
+      {
+       "label": "Temperatură de depozitare",
+       "value": "−20 – 60 °C"
+      },
+      {
+       "label": "Umiditate relativă",
+       "value": "≤ 85%, fără condens"
+      },
+      {
+       "label": "Altitudine",
+       "value": "≤ 2000 m"
+      },
+      {
+       "label": "Răcire",
+       "value": "Naturală"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP20 (instalare în interior)"
+      },
+      {
+       "label": "Montaj",
+       "value": "Pe podea, cu roți; fixare de perete"
+      },
+      {
+       "label": "Dimensiuni (L × Î × A)",
+       "value": "480 × 830 × 230 mm (fără roți și cleme)"
+      },
+      {
+       "label": "Greutate",
+       "value": "130 kg"
+      },
+      {
+       "label": "Certificare declarată",
+       "value": "UN 38.3"
+      },
+      {
+       "label": "Garanție",
+       "value": "5 ani"
+      }
+     ]
+    }
+   ],
+   "manufacturer": "Zhejiang Hyxi Technology Co., Ltd. (HYXiPOWER)"
+  }
+ },
+ {
+  "sku": "UCANPOWER-EB-1608",
+  "slug": "ucanpower-eb-1608-16-08-kwh",
+  "name": "UCanPower EB-1608 16,08 kWh",
+  "brand": "ucanpower",
+  "category": "baterii-stocare",
+  "subtitle": "51,2 V · 314 Ah · dulap pe roți",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "16,08 kWh"
+   },
+   {
+    "label": "Tensiune",
+    "value": "51,2 V LV"
+   },
+   {
+    "label": "Cicluri",
+    "value": "≥ 6000"
+   }
+  ],
+  "features": [
+   "16,08 kWh nominali și 14,47 kWh utilizabili",
+   "Curent de până la 200 A",
+   "Adresare automată în paralel"
+  ],
+  "tags": [
+   "low-voltage",
+   "rezidential"
+  ],
+  "capacityKWh": 16.08,
+  "details": {
+   "seoTitle": "UCanPower EB-1608 16,08 kWh — 51,2 V",
+   "seoDescription": "Sistem de stocare pe roți, cu 14,47 kWh energie utilizabilă, curent de 200 A și extindere până la 16 unități.",
+   "headline": "Sistem de stocare pe roți, cu 14,47 kWh energie utilizabilă, curent de 200 A și extindere până la 16 unități.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "16,08 kWh"
+    },
+    {
+     "label": "Energie utilizabilă",
+     "value": "14,47 kWh"
+    },
+    {
+     "label": "Tensiune",
+     "value": "51,2 V / 314 Ah"
+    },
+    {
+     "label": "Curent maxim",
+     "value": "200 A"
+    },
+    {
+     "label": "Extindere",
+     "value": "până la 16 unități"
+    },
+    {
+     "label": "Garanție",
+     "value": "10 ani"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "16,08 kWh nominali și 14,47 kWh utilizabili",
+     "text": ""
+    },
+    {
+     "title": "Curent de până la 200 A",
+     "text": ""
+    },
+    {
+     "title": "Adresare automată în paralel (fără comutatoare DIP)",
+     "text": ""
+    },
+    {
+     "title": "Până la 16 unități (257,28 kWh nominali",
+     "text": "231,52 kWh utilizabili"
+    },
+    {
+     "title": "Calculat)",
+     "text": ""
+    },
+    {
+     "title": "Zgomot sub 25 dBA",
+     "text": ""
+    },
+    {
+     "title": "Garanție de 10 ani",
+     "text": ""
+    }
+   ],
+   "description": [
+    "EB-1608 este o baterie LiFePO₄ de 51,2 V cu celule de 314 Ah, într-un dulap montat pe podea, cu roți integrate. Are echilibrare activă la nivel de celulă, sistem de stingere a incendiilor (conform producătorului) și Wi-Fi opțional pentru monitorizare și actualizări de firmware la distanță."
+   ],
+   "sections": [
+    {
+     "title": "Invertoare compatibile",
+     "paragraphs": [
+      "Solis, Deye, SRNE, Sungrow, Growatt, GoodWe, SAJ, Afore, Aiswei, LuxPower, Hoymiles, Renac, INVT, MUST, Megarevo, Inhenergy, Voltronic Power."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Specificații",
+     "rows": [
+      {
+       "label": "Tehnologie",
+       "value": "LiFePO₄"
+      },
+      {
+       "label": "Energie nominală / utilizabilă",
+       "value": "16,08 kWh / 14,47 kWh"
+      },
+      {
+       "label": "Tensiune nominală / interval",
+       "value": "51,2 V / 44,8 – 57,6 V"
+      },
+      {
+       "label": "Curent maxim încărcare/descărcare",
+       "value": "200 A (≈ 10,24 kW)"
+      },
+      {
+       "label": "DoD",
+       "value": "≤ 90%"
+      },
+      {
+       "label": "Cicluri",
+       "value": "≥ 6000 (25 °C, 0,5C), retenție 80%"
+      },
+      {
+       "label": "Extindere",
+       "value": "Max. 16 unități în paralel"
+      },
+      {
+       "label": "Comunicare",
+       "value": "RS485 / CAN 2.0"
+      },
+      {
+       "label": "Temperatură",
+       "value": "Încărcare 0 – 50 °C; descărcare −10 – 55 °C; depozitare −15 – 60 °C"
+      },
+      {
+       "label": "Altitudine / umiditate / zgomot",
+       "value": "≤ 3000 m / 20 – 95%, fără condens / < 25 dBA"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP54"
+      },
+      {
+       "label": "Dimensiuni (Î × L × A) / greutate",
+       "value": "845 × 450 × 251 mm / 120 kg"
+      },
+      {
+       "label": "Montaj / garanție",
+       "value": "Pe podea / 10 ani"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "UCANPOWER-UHOME",
+  "slug": "ucanpower-uhome-3-8-kw-all-in-one-monofazat",
+  "name": "UCanPower UHome 3–8 kW (all-in-one monofazat)",
+  "brand": "ucanpower",
+  "category": "invertoare",
+  "extraCategories": [
+   "baterii-stocare",
+   "kituri-complete"
+  ],
+  "subtitle": "All-in-one monofazat · 3–8 kW · 5,12–40,96 kWh",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "3 – 8 kW"
+   },
+   {
+    "label": "Baterie",
+    "value": "5,12 – 40,96 kWh"
+   },
+   {
+    "label": "Protecție",
+    "value": "IP65"
+   }
+  ],
+  "features": [
+   "Invertor, încărcător, UPS și baterie într-un singur sistem",
+   "Module de baterie LiFePO₄ de 5,12 kWh, stivuibile",
+   "Carcasă IP65, răcire naturală"
+  ],
+  "tags": [
+   "all-in-one",
+   "hibrid",
+   "monofazat",
+   "low-voltage",
+   "rezidential"
+  ],
+  "powerW": 8000,
+  "phases": 1,
+  "capacityKWh": 40.96,
+  "details": {
+   "seoTitle": "UCanPower UHome 3–8 kW (all-in-one monofazat) — All-in-one monofazat",
+   "seoDescription": "Invertor, încărcător, UPS și baterie într-un sistem modular, cu 5,12 – 40,96 kWh și protecție IP65.",
+   "headline": "Invertor, încărcător, UPS și baterie într-un sistem modular, cu 5,12 – 40,96 kWh și protecție IP65.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "3 – 8 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Monofazat 230 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "LiFePO₄, 1–8 module de 5,12 kWh"
+    },
+    {
+     "label": "Capacitate",
+     "value": "5,12 – 40,96 kWh"
+    },
+    {
+     "label": "Intrare PV",
+     "value": "până la 550 V"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP65"
+    }
+   ],
+   "description": [
+    "UHome combină invertorul hibrid monofazat (3–8 kW) cu module de baterie LiFePO₄ de 5,12 kWh, într-un sistem stivuit, preconectat. Are ecran tactil, 2 MPPT, modul de protecție la incendiu independent, management inteligent al sarcinilor (pompe de căldură, generator diesel) și actualizări OTA. Poate fi adaptat la contoare inteligente trifazate."
+   ],
+   "sections": [
+    {
+     "title": "Parametri comuni",
+     "paragraphs": [
+      "PV max. 550 V, pornire 100 V, nominal 360 V, MPPT 80 – 500 V. Ieșire L/N/PE 220/230 V, 50/60 Hz, THDv 3%. Suprasarcină 110%/60 s, 120%/30 s, 150%/10 s. Comutare < 20 ms. Fără izolare (non-isolated). Eficiență maximă 97,6%, europeană 97,0%, baterie 95,0%. Invertor: 34 kg, 675 × 200 × 415 mm (L × A × Î). Modul baterie: Li-ion LFP, 51,2 V (44,8 – 57,6 V), 5,12 kWh, 53,6 kg, 675 × 200 × 365 mm. Sistem: încărcare 0 – 50 °C, descărcare −15 – 50 °C, umiditate 0 – 100%, răcire naturală, zgomot < 25 dB, IP65, RS485 / Wi-Fi opțional, altitudine 4000 m (peste 3000 m cu reducere)."
+     ]
+    },
+    {
+     "title": "Standarde declarate",
+     "paragraphs": [
+      "EN 61000-6-1/-3, IEC 62109-1/-2, EN 50549-1, VDE-AR-N 4105 / VDE 0124, NC R+G, UTE și VFR 2019, CEI 0-21, C10/11, NRS 097-2-1, G98 și G99, NTS 631 tip A."
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Variante și configurații",
+     "columns": [
+      "Model",
+      "3K0L",
+      "3K6L",
+      "4K0L",
+      "4K6L",
+      "5K0L",
+      "6K0L",
+      "8K0L"
+     ],
+     "rows": [
+      [
+       "Putere nominală on-grid/off-grid (W)",
+       "3000",
+       "3680",
+       "4000",
+       "4600",
+       "5000",
+       "6000",
+       "8000"
+      ],
+      [
+       "Curent nominal de ieșire (A)",
+       "13",
+       "16",
+       "17,4",
+       "20",
+       "21,7",
+       "26",
+       "35"
+      ],
+      [
+       "Curent maxim de ieșire (A)",
+       "14,3",
+       "16",
+       "19,1",
+       "20",
+       "21,7",
+       "28,7",
+       "38,3"
+      ],
+      [
+       "Putere PV maximă (W)",
+       "4500",
+       "5400",
+       "6000",
+       "6900",
+       "7500",
+       "9000",
+       "12000"
+      ],
+      [
+       "Putere maximă de încărcare (W)",
+       "3000",
+       "3680",
+       "4000",
+       "4600",
+       "5000",
+       "6000",
+       "8000"
+      ],
+      [
+       "Curent maxim încărc./descărc. (A)",
+       "60",
+       "72",
+       "80",
+       "92",
+       "100",
+       "120",
+       "160"
+      ],
+      [
+       "String-uri per MPPT",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/2"
+      ],
+      [
+       "Curent maxim PV (A)",
+       "14/14",
+       "14/14",
+       "14/14",
+       "14/14",
+       "14/14",
+       "14/14",
+       "14/28"
+      ]
+     ]
+    },
+    {
+     "title": "Variante și configurații",
+     "columns": [
+      "Module",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+     ],
+     "rows": [
+      [
+       "Capacitate (kWh)",
+       "5,12",
+       "10,24",
+       "15,36",
+       "20,48",
+       "25,6",
+       "30,72",
+       "35,84",
+       "40,96"
+      ],
+      [
+       "Greutate (kg)",
+       "93",
+       "147",
+       "201",
+       "255",
+       "124 / 201",
+       "178 / 201",
+       "178 / 255",
+       "232 / 255"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "UCANPOWER-ULB-5120MT",
+  "slug": "ucanpower-ulb-5120mt-5-12-20-48-kwh",
+  "name": "UCanPower ULB-5120MT 5,12 – 20,48 kWh",
+  "brand": "ucanpower",
+  "category": "baterii-stocare",
+  "subtitle": "51,2 V · module stivuibile de 5,12 kWh",
+  "image": "/images/products/ucanpower-ulb-5120mt.webp",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "5,12 – 20,48 kWh"
+   },
+   {
+    "label": "Tensiune",
+    "value": "51,2 V LV"
+   },
+   {
+    "label": "Cicluri",
+    "value": "> 10000"
+   }
+  ],
+  "features": [
+   "Module stivuibile de 5,12 kWh, 1–4 module",
+   "Modul independent de protecție la incendiu",
+   "Actualizări de firmware OTA"
+  ],
+  "tags": [
+   "low-voltage",
+   "rezidential"
+  ],
+  "capacityKWh": 20.48,
+  "details": {
+   "seoTitle": "UCanPower ULB-5120MT 5,12 – 20,48 kWh — 51,2 V",
+   "seoDescription": "Baterie modulară stivuibilă de joasă tensiune, cu curent de 100 A, modul de protecție la incendiu independent și OTA.",
+   "headline": "Baterie modulară stivuibilă de joasă tensiune, cu curent de 100 A, modul de protecție la incendiu independent și OTA.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "5,12 – 20,48 kWh"
+    },
+    {
+     "label": "Module",
+     "value": "1 – 4 × 5,12 kWh"
+    },
+    {
+     "label": "Tensiune",
+     "value": "51,2 V / 100 Ah"
+    },
+    {
+     "label": "Curent maxim",
+     "value": "100 A (1C)"
+    },
+    {
+     "label": "Cicluri",
+     "value": "> 10000 la 80% DoD"
+    },
+    {
+     "label": "Comunicare",
+     "value": "RS485 / CAN"
+    }
+   ],
+   "description": [
+    "ULB-5120MT se livrează în configurații cu 1–4 module de 5,12 kWh (51,2 V / 100 Ah), cu comunicare RS485 / CAN 2.0."
+   ],
+   "sections": [
+    {
+     "title": "Parametri comuni",
+     "paragraphs": [
+      "51,2 V (44,8 – 57,6 V), 100 Ah, curent maxim 1C (100 A), cicluri > 10000 la 80% DoD cu capacitate reziduală > 70%. Încărcare 0 – 50 °C, descărcare −10 – 50 °C (optim 20 – 30 °C), depozitare −15 – 60 °C, umiditate 5 – 95%, răcire naturală, IP65, altitudine < 2000 m. Certificare declarată: CE, CB, UN38.3, MSDS."
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Variante și configurații",
+     "columns": [
+      "Module",
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "rows": [
+      [
+       "Capacitate nominală (kWh)",
+       "5,12",
+       "10,24",
+       "15,36",
+       "20,48"
+      ],
+      [
+       "Energie utilizabilă (kWh)",
+       "4,6",
+       "9,22",
+       "13,82",
+       "18,43"
+      ],
+      [
+       "Greutate (kg)",
+       "70",
+       "124",
+       "178",
+       "232"
+      ],
+      [
+       "Dimensiuni (L × A × Î, mm)",
+       "675 × 200 × 620",
+       "675 × 200 × 985",
+       "675 × 200 × 1350",
+       "675 × 200 × 1715"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "UCANPOWER-UHB-2560",
+  "slug": "ucanpower-uhb-2560-7-68-25-6-kwh-hv",
+  "name": "UCanPower UHB-2560 7,68 – 25,6 kWh (HV)",
+  "brand": "ucanpower",
+  "category": "baterii-stocare",
+  "subtitle": "Înaltă tensiune · module de 2,56 kWh · 3–10 module",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "7,68 – 25,6 kWh"
+   },
+   {
+    "label": "Tensiune",
+    "value": "153,6 – 512 V"
+   },
+   {
+    "label": "Cicluri",
+    "value": "> 10000"
+   }
+  ],
+  "features": [
+   "Module de înaltă tensiune de 2,56 kWh, 3–10 în serie",
+   "Echilibrare activă la nivel de celulă",
+   "Modul independent de protecție la incendiu"
+  ],
+  "tags": [
+   "high-voltage",
+   "rezidential"
+  ],
+  "capacityKWh": 25.6,
+  "details": {
+   "seoTitle": "UCanPower UHB-2560 7,68 – 25,6 kWh (HV) — Înaltă tensiune",
+   "seoDescription": "Baterie modulară de înaltă tensiune cu module de 2,56 kWh, echilibrare activă la nivel de celulă și modul de protecție la incendiu independent.",
+   "headline": "Baterie modulară de înaltă tensiune cu module de 2,56 kWh, echilibrare activă la nivel de celulă și modul de protecție la incendiu independent.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "7,68 – 25,6 kWh"
+    },
+    {
+     "label": "Module",
+     "value": "3 – 10 × 2,56 kWh"
+    },
+    {
+     "label": "Tensiune nominală",
+     "value": "153,6 – 512 V"
+    },
+    {
+     "label": "Curent",
+     "value": "25 A recomandat, 50 A maxim"
+    },
+    {
+     "label": "Cicluri",
+     "value": "> 10000 la 80% DoD"
+    },
+    {
+     "label": "Comunicare",
+     "value": "RS485 / RS232 / CAN"
+    }
+   ],
+   "description": [
+    "Se compune din 3–10 module în serie (51,2 V / 50 Ah / 2,56 kWh fiecare), cu comunicare RS485 / RS232 / CAN 2.0 și actualizări OTA."
+   ],
+   "sections": [
+    {
+     "title": "Parametri comuni",
+     "paragraphs": [
+      "50 Ah, curent de încărcare/descărcare 25 A recomandat și 50 A maxim, cicluri > 10000 la 80% DoD cu capacitate reziduală > 70%. Încărcare 0 – 50 °C, descărcare −10 – 50 °C, depozitare −30 – 60 °C, umiditate 5 – 95%, altitudine 2000 m, IP20 (interior), 851 × 255 mm (L × A). Certificare declarată: CE, CB, UN38.3, MSDS."
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Variante și configurații",
+     "columns": [
+      "Module",
+      "T3",
+      "T4",
+      "T5",
+      "T6",
+      "T7",
+      "T8",
+      "T9",
+      "T10"
+     ],
+     "rows": [
+      [
+       "Energie nominală (kWh)",
+       "7,68",
+       "10,24",
+       "12,8",
+       "15,36",
+       "17,92",
+       "20,48",
+       "23,04",
+       "25,6"
+      ],
+      [
+       "Energie utilizabilă (kWh)",
+       "6,9",
+       "9,2",
+       "11,52",
+       "13,8",
+       "16,13",
+       "18,4",
+       "20,7",
+       "23"
+      ],
+      [
+       "Tensiune nominală (V)",
+       "153,6",
+       "204,8",
+       "256",
+       "307,2",
+       "358,4",
+       "409,6",
+       "460,8",
+       "512"
+      ],
+      [
+       "Interval de tensiune (V)",
+       "134,4 – 172,8",
+       "179,2 – 230,4",
+       "224 – 288",
+       "268,8 – 345,6",
+       "313,6 – 403,2",
+       "358,4 – 460,8",
+       "403,2 – 518,4",
+       "448 – 576"
+      ],
+      [
+       "Greutate (kg)",
+       "104",
+       "136",
+       "168",
+       "200",
+       "232",
+       "264",
+       "296",
+       "328"
+      ],
+      [
+       "Înălțime (mm)",
+       "488",
+       "618",
+       "748",
+       "878",
+       "1008",
+       "1138",
+       "1268",
+       "1398"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "UCANPOWER-UHB-100",
+  "slug": "ucanpower-uhb-100-15-36-51-2-kwh-hv",
+  "name": "UCanPower UHB-100 15,36 – 51,2 kWh (HV)",
+  "brand": "ucanpower",
+  "category": "baterii-stocare",
+  "subtitle": "Înaltă tensiune · module de 5,12 kWh · 3–10 module",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "15,36 – 51,2 kWh"
+   },
+   {
+    "label": "Tensiune",
+    "value": "153,6 – 512 V"
+   },
+   {
+    "label": "Curent",
+    "value": "până la 100 A"
+   }
+  ],
+  "features": [
+   "Module de înaltă tensiune de 5,12 kWh, 3–10 în serie",
+   "Curent de până la 100 A",
+   "Echilibrare activă la nivel de celulă"
+  ],
+  "tags": [
+   "high-voltage",
+   "rezidential",
+   "comercial"
+  ],
+  "capacityKWh": 51.2,
+  "details": {
+   "seoTitle": "UCanPower UHB-100 15,36 – 51,2 kWh (HV) — Înaltă tensiune",
+   "seoDescription": "Baterie modulară de înaltă tensiune cu module de 5,12 kWh și curent de până la 100 A.",
+   "headline": "Baterie modulară de înaltă tensiune cu module de 5,12 kWh și curent de până la 100 A.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "15,36 – 51,2 kWh"
+    },
+    {
+     "label": "Module",
+     "value": "3 – 10 × 5,12 kWh"
+    },
+    {
+     "label": "Tensiune nominală",
+     "value": "153,6 – 512 V"
+    },
+    {
+     "label": "Curent",
+     "value": "50 A nominal, 100 A maxim"
+    },
+    {
+     "label": "Cicluri",
+     "value": "> 10000 la 80% DoD"
+    },
+    {
+     "label": "Echilibrare",
+     "value": "Activă, la nivel de celulă"
+    }
+   ],
+   "description": [
+    "Se compune din 3–10 module în serie (1P16S, 51,2 V / 100 Ah / 5,12 kWh), cu echilibrare activă la nivel de celulă, OTA și comunicare RS485 / RS232 / CAN 2.0."
+   ],
+   "sections": [
+    {
+     "title": "Parametri comuni",
+     "paragraphs": [
+      "100 Ah, curent de încărcare/descărcare 50 A nominal și 100 A maxim, cicluri > 10000 la 80% DoD cu capacitate reziduală > 70%. Încărcare 0 – 55 °C, descărcare −20 – 55 °C, umiditate 5 – 95% fără condens, altitudine ≤ 2000 m, IP54, 630 × 365 mm (L × A). Certificare declarată: CE, CB, UN38.3, MSDS."
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Variante și configurații",
+     "columns": [
+      "Module",
+      "3S",
+      "4S",
+      "5S",
+      "6S",
+      "7S",
+      "8S",
+      "9S",
+      "10S"
+     ],
+     "rows": [
+      [
+       "Energie nominală (kWh)",
+       "15,36",
+       "20,48",
+       "25,6",
+       "30,72",
+       "35,84",
+       "40,96",
+       "46,08",
+       "51,2"
+      ],
+      [
+       "Energie utilizabilă (kWh)",
+       "13,8",
+       "18,4",
+       "23",
+       "27,6",
+       "32,2",
+       "36,8",
+       "41,4",
+       "46"
+      ],
+      [
+       "Tensiune nominală (V)",
+       "153,6",
+       "204,8",
+       "256",
+       "307,2",
+       "358,4",
+       "409,6",
+       "460,8",
+       "512"
+      ],
+      [
+       "Greutate (kg)",
+       "154,4",
+       "199,8",
+       "245,2",
+       "290,6",
+       "336",
+       "381,4",
+       "426,8",
+       "472,2"
+      ],
+      [
+       "Înălțime (mm)",
+       "674",
+       "813",
+       "952",
+       "1091",
+       "1230",
+       "1369",
+       "1508",
+       "1647"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "DX-EB-1608",
+  "slug": "dx-energy-eb-1608-16-08-kwh",
+  "name": "DX Energy EB-1608 16,08 kWh",
+  "brand": "dx-energy",
+  "category": "baterii-stocare",
+  "subtitle": "51,2 V · 314 Ah · dulap pe roți",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "16,08 kWh"
+   },
+   {
+    "label": "Tensiune",
+    "value": "51,2 V LV"
+   },
+   {
+    "label": "Cicluri",
+    "value": "≥ 6000"
+   }
+  ],
+  "features": [
+   "Capacitate mare",
+   "Curent ridicat",
+   "Siguranță"
+  ],
+  "tags": [
+   "low-voltage",
+   "rezidential"
+  ],
+  "capacityKWh": 16.08,
+  "details": {
+   "seoTitle": "DX Energy EB-1608 16,08 kWh — 51,2 V",
+   "seoDescription": "Sistem de stocare de mare capacitate, cu curent de până la 200 A, dulap pe roți și 10 ani garanție.",
+   "headline": "Sistem de stocare de mare capacitate, cu curent de până la 200 A, dulap pe roți și 10 ani garanție.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "16,08 kWh"
+    },
+    {
+     "label": "Energie utilizabilă",
+     "value": "≈ 14,47 kWh"
+    },
+    {
+     "label": "Tensiune",
+     "value": "51,2 V / 314 Ah"
+    },
+    {
+     "label": "Curent maxim",
+     "value": "200 A"
+    },
+    {
+     "label": "Extindere",
+     "value": "până la 16 unități"
+    },
+    {
+     "label": "Garanție",
+     "value": "10 ani"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Capacitate mare",
+     "text": "16,08 kWh, cu adâncime de descărcare de până la 90% (aproximativ 14,47 kWh utilizabili, valoare calculată)."
+    },
+    {
+     "title": "Curent ridicat",
+     "text": "Până la 200 A la încărcare și descărcare, pentru alimentarea mai multor consumatori simultan."
+    },
+    {
+     "title": "Siguranță",
+     "text": "Sistem inteligent de stingere a incendiilor, care detectează și stinge focul în 5 secunde (conform producătorului)."
+    },
+    {
+     "title": "Durată de viață",
+     "text": "Cel puțin 6000 de cicluri, cu retenție de 80% (25 °C, 0,5C), și garanție de 10 ani."
+    },
+    {
+     "title": "Extindere simplă",
+     "text": "Până la 16 unități în paralel, cu codare automată a adreselor (fără comutatoare DIP). Actualizările de firmware de pe unitatea master se propagă automat la unitățile slave."
+    },
+    {
+     "title": "Monitorizare",
+     "text": "Wi-Fi integrat (opțional) pentru monitorizare în timp real și actualizări de firmware la distanță."
+    },
+    {
+     "title": "Funcționare silențioasă",
+     "text": "Răcire naturală, sub 25 dBA."
+    }
+   ],
+   "description": [
+    "DX Energy EB-1608 este un sistem de stocare rezidențial de 16,08 kWh, construit cu celule LiFePO₄ de 314 Ah la 51,2 V. Dulapul se montează pe podea și are roți integrate pentru poziționare ușoară. Carcasa IP54 permite amplasarea în spații adăpostite, interioare sau exterioare. Sistemul se extinde până la 16 unități în paralel."
+   ],
+   "sections": [
+    {
+     "title": "Compatibilitate cu invertoare",
+     "paragraphs": [
+      "Invertoare Victron Energy, Sungrow, Growatt, GoodWe, Deye, Solis, SAJ, Afore, Aiswei, LuxPower, Hoymiles, Renac, INVT, MUST, Megarevo, Inhenergy și Voltronic Power. Confirmați compatibilitatea cu modelul exact de invertor înainte de punerea în funcțiune."
+     ]
+    },
+    {
+     "title": "Exemplu de autonomie",
+     "paragraphs": [
+      "La un consum mediu de 1 kW, aproximativ 14,5 ore de funcționare (calculat la 14,47 kWh utilizabili, înainte de pierderile invertorului)."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Specificații tehnice",
+     "rows": [
+      {
+       "label": "Model",
+       "value": "EB-1608"
+      },
+      {
+       "label": "Tehnologie",
+       "value": "LiFePO₄"
+      },
+      {
+       "label": "Capacitate",
+       "value": "16,08 kWh (celule de 314 Ah)"
+      },
+      {
+       "label": "Tensiune nominală",
+       "value": "51,2 V"
+      },
+      {
+       "label": "Interval de tensiune",
+       "value": "44,8 – 57,6 V"
+      },
+      {
+       "label": "Curent maxim încărcare/descărcare",
+       "value": "200 A (≈ 10,24 kW la 51,2 V)"
+      },
+      {
+       "label": "Adâncime de descărcare (DoD)",
+       "value": "≤ 90%"
+      },
+      {
+       "label": "Cicluri de viață",
+       "value": "≥ 6000 (25 °C, 0,5C), retenție 80%"
+      },
+      {
+       "label": "Extindere",
+       "value": "max. 16 unități în paralel"
+      },
+      {
+       "label": "Comunicare",
+       "value": "RS485 / CAN 2.0"
+      },
+      {
+       "label": "Temperatură de funcționare",
+       "value": "Încărcare: 0 – 50 °C; descărcare: −10 – 55 °C"
+      },
+      {
+       "label": "Temperatură de depozitare",
+       "value": "−15 – 60 °C"
+      },
+      {
+       "label": "Răcire",
+       "value": "Convecție naturală"
+      },
+      {
+       "label": "Altitudine",
+       "value": "≤ 3000 m"
+      },
+      {
+       "label": "Umiditate",
+       "value": "20 – 95%, fără condens"
+      },
+      {
+       "label": "Zgomot",
+       "value": "< 25 dBA"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP54"
+      },
+      {
+       "label": "Dimensiuni (Î × L × A)",
+       "value": "845 × 450 × 251 mm"
+      },
+      {
+       "label": "Greutate",
+       "value": "120 kg"
+      },
+      {
+       "label": "Montaj",
+       "value": "Pe podea (dulap pe roți)"
+      },
+      {
+       "label": "Garanție",
+       "value": "10 ani"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "DX-EB-2000",
+  "slug": "dx-energy-eb-2000-20-07-kwh",
+  "name": "DX Energy EB-2000 20,07 kWh",
+  "brand": "dx-energy",
+  "category": "baterii-stocare",
+  "subtitle": "51,2 V · IP65 · extindere 16 unități",
+  "highlights": [
+   {
+    "label": "Capacitate",
+    "value": "20,07 kWh"
+   },
+   {
+    "label": "Tensiune",
+    "value": "51,2 V LV"
+   },
+   {
+    "label": "Cicluri",
+    "value": "≥ 6000"
+   }
+  ],
+  "features": [
+   "Energie utilizabilă mare",
+   "Curent ridicat",
+   "Egalizare activă la nivel de celulă"
+  ],
+  "tags": [
+   "low-voltage",
+   "rezidential"
+  ],
+  "capacityKWh": 20.07,
+  "details": {
+   "seoTitle": "DX Energy EB-2000 20,07 kWh — 51,2 V",
+   "seoDescription": "Stocare de mare capacitate, cu 18,06 kWh energie utilizabilă, protecție IP65 și extindere până la 16 unități.",
+   "headline": "Stocare de mare capacitate, cu 18,06 kWh energie utilizabilă, protecție IP65 și extindere până la 16 unități.",
+   "keyFacts": [
+    {
+     "label": "Capacitate",
+     "value": "20,07 kWh"
+    },
+    {
+     "label": "Energie utilizabilă",
+     "value": "18,06 kWh"
+    },
+    {
+     "label": "Tensiune",
+     "value": "51,2 V"
+    },
+    {
+     "label": "Curent maxim",
+     "value": "200 A"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP65"
+    },
+    {
+     "label": "Extindere",
+     "value": "până la 16 unități"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Energie utilizabilă mare",
+     "text": "18,06 kWh, la o adâncime de descărcare de până la 90%."
+    },
+    {
+     "title": "Curent ridicat",
+     "text": "Până la 200 A la încărcare și descărcare (0,5C), pentru mai mulți consumatori simultan."
+    },
+    {
+     "title": "Egalizare activă la nivel de celulă",
+     "text": "Celulele sunt echilibrate individual, iar pachetul rămâne uniform pe toată durata de viață."
+    },
+    {
+     "title": "BMS de protecție",
+     "text": "Mai multe setări de protecție electrică pentru funcționare sigură pe întregul interval de lucru."
+    },
+    {
+     "title": "Ecran LED",
+     "text": "Afișează nivelul de încărcare (SOC) și starea de funcționare."
+    },
+    {
+     "title": "Compatibilitate multi-brand",
+     "text": "Se adaptează invertoarelor din sistemul deja proiectat."
+    },
+    {
+     "title": "Durată de viață",
+     "text": "Cel puțin 6000 de cicluri la 80% DoD, cu retenție ≥ 80% la sfârșitul vieții."
+    },
+    {
+     "title": "Carcasă IP65",
+     "text": "Protejată la praf și la jeturi de apă."
+    },
+    {
+     "title": "Extindere",
+     "text": "Până la 16 unități în paralel."
+    }
+   ],
+   "description": [
+    "DX Energy EB-2000 este un sistem de stocare rezidențial LiFePO₄ de 51,2 V, cu 20,07 kWh capacitate nominală și 18,06 kWh energie utilizabilă. Este montat într-un dulap pe podea, cu carcasă IP65 și răcire naturală, pentru instalații care au nevoie de multă energie stocată și autonomie lungă. Se extinde până la 16 unități în paralel."
+   ],
+   "sections": [
+    {
+     "title": "Compatibilitate cu invertoare",
+     "paragraphs": [
+      "Invertoare Victron Energy, Sungrow, Growatt, GoodWe, Solis, SAJ, Afore, Aiswei, LuxPower, Renac, INVT, MUST, Megarevo și Inhenergy. Producătorul cere confirmarea compatibilității de firmware pentru modelul exact de invertor înainte de punerea în funcțiune."
+     ]
+    },
+    {
+     "title": "Exemplu de autonomie",
+     "paragraphs": [
+      "La un consum mediu de 1 kW, aproximativ 18 ore de funcționare, înainte de pierderile invertorului."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Specificații tehnice",
+     "rows": [
+      {
+       "label": "Model",
+       "value": "EB-2000"
+      },
+      {
+       "label": "Tehnologie",
+       "value": "LiFePO₄"
+      },
+      {
+       "label": "Capacitate nominală (per kit)",
+       "value": "20,07 kWh"
+      },
+      {
+       "label": "Energie utilizabilă",
+       "value": "18,06 kWh"
+      },
+      {
+       "label": "Tensiune nominală",
+       "value": "51,2 V"
+      },
+      {
+       "label": "Interval de tensiune",
+       "value": "44,8 – 57,6 V"
+      },
+      {
+       "label": "Rată maximă încărcare/descărcare",
+       "value": "0,5C"
+      },
+      {
+       "label": "Curent maxim încărcare/descărcare",
+       "value": "200 A (≈ 10,24 kW la 51,2 V)"
+      },
+      {
+       "label": "Adâncime de descărcare (DoD)",
+       "value": "≤ 90%"
+      },
+      {
+       "label": "Cicluri de viață",
+       "value": "≥ 6000 la 80% DoD (25 °C, 0,5C), retenție ≥ 80% la sfârșitul vieții"
+      },
+      {
+       "label": "Extindere",
+       "value": "max. 16 unități în paralel"
+      },
+      {
+       "label": "Comunicare",
+       "value": "RS485 / CAN 2.0"
+      },
+      {
+       "label": "Temperatură de funcționare",
+       "value": "Încărcare: 0 – 50 °C; descărcare: −10 – 55 °C"
+      },
+      {
+       "label": "Temperatură de depozitare",
+       "value": "−15 – 60 °C"
+      },
+      {
+       "label": "Răcire",
+       "value": "Convecție naturală"
+      },
+      {
+       "label": "Altitudine",
+       "value": "≤ 3000 m"
+      },
+      {
+       "label": "Umiditate",
+       "value": "20 – 95%, fără condens"
+      },
+      {
+       "label": "Zgomot",
+       "value": "< 25 dBA"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP65"
+      },
+      {
+       "label": "Dimensiuni (Î × L × A)",
+       "value": "940 × 490 × 260 mm"
+      },
+      {
+       "label": "Greutate",
+       "value": "150 kg"
+      },
+      {
+       "label": "Montaj",
+       "value": "Pe podea (dulap pe roți)"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "DX-SERIES-L",
+  "slug": "dx-energy-dx-series-3-8-kw-all-in-one-monofazat",
+  "name": "DX Energy DX Series 3–8 kW (all-in-one monofazat)",
+  "brand": "dx-energy",
+  "category": "invertoare",
+  "extraCategories": [
+   "baterii-stocare",
+   "kituri-complete"
+  ],
+  "subtitle": "All-in-one monofazat · 3–8 kW · 10,24–40,96 kWh",
+  "image": "/images/products/dx-energy-dx-series.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "3 – 8 kW"
+   },
+   {
+    "label": "Baterie",
+    "value": "10,24 – 40,96 kWh"
+   },
+   {
+    "label": "Backup",
+    "value": "< 20 ms"
+   }
+  ],
+  "features": [
+   "All-in-one",
+   "Capacitate flexibilă",
+   "Eficiență ridicată"
+  ],
+  "tags": [
+   "all-in-one",
+   "hibrid",
+   "monofazat",
+   "low-voltage",
+   "rezidential"
+  ],
+  "powerW": 8000,
+  "phases": 1,
+  "capacityKWh": 40.96,
+  "details": {
+   "seoTitle": "DX Energy DX Series 3–8 kW (all-in-one monofazat) — All-in-one monofazat",
+   "seoDescription": "Invertor, încărcător, UPS și baterie într-un singur sistem modular, cu protecție IP65.",
+   "headline": "Invertor, încărcător, UPS și baterie într-un singur sistem modular, cu protecție IP65.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "3 – 8 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Monofazat 230 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "LiFePO₄, 2–8 module de 5,12 kWh"
+    },
+    {
+     "label": "MPPT",
+     "value": "2"
+    },
+    {
+     "label": "Eficiență maximă",
+     "value": "97,6%"
+    },
+    {
+     "label": "Protecție",
+     "value": "IP65"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "All-in-one",
+     "text": "Invertor, încărcător, UPS și baterie preconectate într-un sistem modular."
+    },
+    {
+     "title": "Capacitate flexibilă",
+     "text": "De la 2 la 8 module de 5,12 kWh, adică 10,24 – 40,96 kWh."
+    },
+    {
+     "title": "Eficiență ridicată",
+     "text": "97,6% maximă și 97,0% Euro. Eficiența maximă de încărcare/descărcare a bateriei este de 95,0%."
+    },
+    {
+     "title": "Două MPPT",
+     "text": "Interval de 80 – 500 V, tensiune PV maximă 550 V, până la 14 A per string."
+    },
+    {
+     "title": "Backup fără întrerupere",
+     "text": "Comutare UPS în sub 20 ms. Capacitate de suprasarcină: 110% timp de 60 s, 120% timp de 30 s și 150% timp de 10 s."
+    },
+    {
+     "title": "Monitorizare prin aplicație",
+     "text": "RS485 standard, Wi-Fi opțional."
+    },
+    {
+     "title": "Silențios",
+     "text": "Zgomot sub 25 dB."
+    },
+    {
+     "title": "Carcasă IP65",
+     "text": ""
+    }
+   ],
+   "description": [
+    "DX Series este un sistem de stocare all-in-one monofazat, care combină invertorul, încărcătorul de baterie, funcția UPS și bateria într-un sistem modular preconectat. Puterea nominală este de 3–8 kW (șapte clase de putere). Capacitatea se alege prin numărul de module de baterie LiFePO₄ de 5,12 kWh (2–8 module), adică 10,24 – 40,96 kWh. Carcasa IP65 permite instalarea în interior sau în exterior."
+   ],
+   "sections": [
+    {
+     "title": "Configurații de baterie (sufixul modelului)",
+     "paragraphs": [
+      "Fiecare clasă de putere se comandă cu un sufix de configurare a bateriei (−T2 … −T8)."
+     ]
+    },
+    {
+     "title": "Standarde declarate de producător",
+     "paragraphs": [
+      "CE / UKCA: EN 61000, IEC 62109-1, IEC 62109-2. Conectare la rețea: EN 50549-1, VDE-AR-N 4105, CEI 0-21, AS/NZS 4777, G98 și G99, G100."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / de pornire / nominală",
+       "value": "550 V / 100 V / 360 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "80 – 500 V (2 MPPT)"
+      },
+      {
+       "label": "Curent maxim per string",
+       "value": "14 A"
+      },
+      {
+       "label": "Tensiune de ieșire",
+       "value": "L/N/PE, 220 V / 230 V"
+      },
+      {
+       "label": "Frecvență",
+       "value": "50 / 60 Hz"
+      },
+      {
+       "label": "THDv",
+       "value": "< 3%"
+      },
+      {
+       "label": "Timp de comutare",
+       "value": "< 20 ms"
+      },
+      {
+       "label": "Topologie invertor",
+       "value": "Fără izolare (non-isolated)"
+      },
+      {
+       "label": "Eficiență maximă / Euro",
+       "value": "97,60% / 97,00%"
+      },
+      {
+       "label": "Unitate invertor",
+       "value": "34 kg; 675 × 200 × 415 mm (L × A × Î); pe podea, în stivă"
+      },
+      {
+       "label": "Modul de baterie",
+       "value": "LFP, 51,2 V (44,8 – 57,6 V), 5,12 kWh, 53,6 kg, 675 × 200 × 365 mm (L × A × Î)"
+      },
+      {
+       "label": "Temperatură de funcționare",
+       "value": "Încărcare: 0 – 50 °C; descărcare: −15 – 50 °C"
+      },
+      {
+       "label": "Umiditate / răcire",
+       "value": "0 – 95% / naturală"
+      },
+      {
+       "label": "Altitudine",
+       "value": "< 2000 m"
+      },
+      {
+       "label": "Comunicare",
+       "value": "RS485 / Wi-Fi (opțional)"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP65"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Clase de putere",
+     "columns": [
+      "Model",
+      "3K0L",
+      "3K6L",
+      "4K0L",
+      "4K6L",
+      "5K0L",
+      "6K0L",
+      "8K0L"
+     ],
+     "rows": [
+      [
+       "Putere nominală (on-grid și off-grid)",
+       "3000 W",
+       "3680 W",
+       "4000 W",
+       "4600 W",
+       "5000 W",
+       "6000 W",
+       "8000 W"
+      ],
+      [
+       "Curent nominal de ieșire",
+       "13 A",
+       "16 A",
+       "17,4 A",
+       "20 A",
+       "21,7 A",
+       "26 A",
+       "35 A"
+      ],
+      [
+       "Curent maxim de ieșire",
+       "14,3 A",
+       "16 A",
+       "19,1 A",
+       "20 A",
+       "21,7 A",
+       "26 A",
+       "35 A"
+      ],
+      [
+       "Putere maximă PV",
+       "4500 W",
+       "5400 W",
+       "6000 W",
+       "6900 W",
+       "7500 W",
+       "9000 W",
+       "12000 W"
+      ],
+      [
+       "String-uri per MPPT",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/2"
+      ],
+      [
+       "Curent maxim de intrare PV",
+       "14/14 A",
+       "14/14 A",
+       "14/14 A",
+       "14/14 A",
+       "14/14 A",
+       "14/14 A",
+       "14/28 A"
+      ],
+      [
+       "Putere maximă de încărcare baterie",
+       "3000 W",
+       "3680 W",
+       "4000 W",
+       "4600 W",
+       "5000 W",
+       "6000 W",
+       "8000 W"
+      ],
+      [
+       "Curent maxim încărcare/descărcare baterie",
+       "60/60 A",
+       "72/72 A",
+       "80/80 A",
+       "92/92 A",
+       "100/100 A",
+       "120/120 A",
+       "160/160 A"
+      ]
+     ]
+    },
+    {
+     "title": "Configurații de baterie (sufixul modelului)",
+     "columns": [
+      "Sufix",
+      "Module",
+      "Capacitate",
+      "Greutate",
+      "Dimensiuni (L × A × Î)"
+     ],
+     "rows": [
+      [
+       "−T2",
+       "2",
+       "10,24 kWh",
+       "154,4 kg",
+       "675 × 200 × 1210 mm"
+      ],
+      [
+       "−T3",
+       "3",
+       "15,36 kWh",
+       "208 kg",
+       "675 × 200 × 1575 mm"
+      ],
+      [
+       "−T4",
+       "4",
+       "20,48 kWh",
+       "261,6 kg",
+       "675 × 200 × 1940 mm"
+      ],
+      [
+       "−T5",
+       "5",
+       "25,6 kWh",
+       "124 kg / 201 kg",
+       "675 × 200 × 985 mm / 675 × 200 × 1570 mm"
+      ],
+      [
+       "−T6",
+       "6",
+       "30,72 kWh",
+       "178 kg / 201 kg",
+       "675 × 200 × 1350 mm / 675 × 200 × 1570 mm"
+      ],
+      [
+       "−T7",
+       "7",
+       "35,84 kWh",
+       "178 kg / 255 kg",
+       "675 × 200 × 1350 mm / 675 × 200 × 1935 mm"
+      ],
+      [
+       "−T8",
+       "8",
+       "40,96 kWh",
+       "232 kg / 255 kg",
+       "675 × 200 × 1715 mm / 675 × 200 × 1935 mm"
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "sku": "DX-T-SERIES",
+  "slug": "dx-energy-dx-t-series-4-20-kw-all-in-one-trifazat",
+  "name": "DX Energy DX-T Series 4–20 kW (all-in-one trifazat)",
+  "brand": "dx-energy",
+  "category": "invertoare",
+  "extraCategories": [
+   "baterii-stocare",
+   "kituri-complete"
+  ],
+  "subtitle": "All-in-one trifazat · 4–20 kW · 10,24–40,96 kWh",
+  "image": "/images/products/dx-energy-dx-series.webp",
+  "highlights": [
+   {
+    "label": "Putere",
+    "value": "4 – 20 kW"
+   },
+   {
+    "label": "Baterie",
+    "value": "10,24 – 40,96 kWh"
+   },
+   {
+    "label": "Eficiență",
+    "value": "până la 98,2%"
+   }
+  ],
+  "features": [
+   "Ecran tactil",
+   "Instalare modulară",
+   "MPPT independente"
+  ],
+  "tags": [
+   "all-in-one",
+   "hibrid",
+   "trifazat",
+   "high-voltage",
+   "rezidential",
+   "comercial"
+  ],
+  "powerW": 20000,
+  "phases": 3,
+  "capacityKWh": 40.96,
+  "details": {
+   "seoTitle": "DX Energy DX-T Series 4–20 kW (all-in-one trifazat) — All-in-one trifazat",
+   "seoDescription": "Sistem all-in-one trifazat cu ecran tactil, 2 sau 4 MPPT, eficiență de până la 98,2% și module de baterie preconectate.",
+   "headline": "Sistem all-in-one trifazat cu ecran tactil, 2 sau 4 MPPT, eficiență de până la 98,2% și module de baterie preconectate.",
+   "keyFacts": [
+    {
+     "label": "Putere nominală",
+     "value": "4 – 20 kW"
+    },
+    {
+     "label": "Rețea",
+     "value": "Trifazat 400 V"
+    },
+    {
+     "label": "Baterie",
+     "value": "LiFePO₄, 2–8 module de 5,12 kWh"
+    },
+    {
+     "label": "MPPT",
+     "value": "2 sau 4"
+    },
+    {
+     "label": "Comutare backup",
+     "value": "< 10 ms"
+    },
+    {
+     "label": "Afișaj",
+     "value": "Ecran tactil"
+    }
+   ],
+   "benefits": [
+    {
+     "title": "Ecran tactil",
+     "text": "Punere în funcțiune și operare mai simple."
+    },
+    {
+     "title": "Instalare modulară, fără cablaj între module",
+     "text": "Module de baterie preconectate, câte 5,12 kWh (2 – 8 module)."
+    },
+    {
+     "title": "MPPT independente",
+     "text": "2 trackere la 4K0T – 6K0T și 4 trackere la 8K0T – 20K0T, cu interval de 120 – 960 V, până la 18 A per string și tensiune PV maximă 1000 V."
+    },
+    {
+     "title": "Eficiență ridicată",
+     "text": "98,2% maximă și 97,5% Euro."
+    },
+    {
+     "title": "Sarcini trifazate dezechilibrate",
+     "text": "Suportă până la 110% ieșire dezechilibrată."
+    },
+    {
+     "title": "Management inteligent al sarcinilor",
+     "text": "Controlează consumatori de putere mare, de exemplu pompe de căldură și generatoare diesel."
+    },
+    {
+     "title": "Actualizări de firmware la distanță (OTA)",
+     "text": "Fără deplasare la fața locului"
+    },
+    {
+     "title": "Comutare backup în sub 10 ms",
+     "text": ""
+    },
+    {
+     "title": "Carcasă IP65",
+     "text": ""
+    }
+   ],
+   "description": [
+    "DX-T Series este un sistem de stocare all-in-one trifazat, cu putere nominală de 4–20 kW (opt clase de putere). Capacitatea bateriei este de 10,24 – 40,96 kWh, obținută din 2–8 module LiFePO₄ de 5,12 kWh, stivuite și preconectate. Interfața cu ecran tactil ușurează punerea în funcțiune și operarea. Carcasa este IP65."
+   ],
+   "sections": [
+    {
+     "title": "Configurații de baterie",
+     "paragraphs": [
+      "Configurațiile de 5 module sau mai mari se livrează în două stive, iar greutatea indicată este cea a sistemului complet."
+     ]
+    }
+   ],
+   "specs": [
+    {
+     "group": "Parametri comuni",
+     "rows": [
+      {
+       "label": "Tensiune PV maximă / de pornire / nominală",
+       "value": "1000 V / 135 V / 600 V"
+      },
+      {
+       "label": "Interval MPPT",
+       "value": "120 – 960 V"
+      },
+      {
+       "label": "Interval de tensiune baterie (interfața invertorului)",
+       "value": "135 – 750 V"
+      },
+      {
+       "label": "Curent maxim încărcare/descărcare baterie (interfață)",
+       "value": "25 A / 25 A"
+      },
+      {
+       "label": "Tensiune de ieșire",
+       "value": "3L/N/PE, 220/380 V, 230/400 V"
+      },
+      {
+       "label": "Frecvență",
+       "value": "50 / 60 Hz"
+      },
+      {
+       "label": "THDv",
+       "value": "< 3%"
+      },
+      {
+       "label": "Timp de comutare",
+       "value": "< 10 ms"
+      },
+      {
+       "label": "Topologie invertor",
+       "value": "Fără izolare (non-isolated)"
+      },
+      {
+       "label": "Eficiență maximă / Euro",
+       "value": "98,2% / 97,5%"
+      },
+      {
+       "label": "Unitate invertor",
+       "value": "50,5 kg; 770 × 200 × 470 mm (L × A × Î)"
+      },
+      {
+       "label": "Modul de baterie",
+       "value": "Li-ion (LFP), 409 V nominal (320 – 467 V), 5,12 kWh, 54,2 kg, 770 × 200 × 385 mm (L × A × Î)"
+      },
+      {
+       "label": "Curent standard de încărcare / max. de descărcare (modul)",
+       "value": "7,5 A / 12,5 A"
+      },
+      {
+       "label": "Putere nominală per modul",
+       "value": "3000 W"
+      },
+      {
+       "label": "Temperatură de funcționare",
+       "value": "Încărcare: 0 – 50 °C; descărcare: −10 – 50 °C"
+      },
+      {
+       "label": "Umiditate",
+       "value": "0 – 100%"
+      },
+      {
+       "label": "Altitudine",
+       "value": "≤ 3000 m (peste 3000 m cu derating)"
+      },
+      {
+       "label": "Zgomot",
+       "value": "< 25 dB"
+      },
+      {
+       "label": "Comunicare",
+       "value": "RS485 / Wi-Fi"
+      },
+      {
+       "label": "Grad de protecție",
+       "value": "IP65"
+      }
+     ]
+    }
+   ],
+   "tables": [
+    {
+     "title": "Clase de putere",
+     "columns": [
+      "Model",
+      "4K0T",
+      "5K0T",
+      "6K0T",
+      "8K0T",
+      "10K0T",
+      "12K0T",
+      "15K0T",
+      "20K0T"
+     ],
+     "rows": [
+      [
+       "Putere nominală (on-grid și off-grid)",
+       "4000 W",
+       "5000 W",
+       "6000 W",
+       "8000 W",
+       "10000 W",
+       "12000 W",
+       "15000 W",
+       "20000 W"
+      ],
+      [
+       "Curent AC maxim",
+       "6,7 A",
+       "8,3 A",
+       "10,0 A",
+       "13,3 A",
+       "16,7 A",
+       "20 A",
+       "25 A",
+       "33,3 A"
+      ],
+      [
+       "Putere maximă PV",
+       "6000 W",
+       "7500 W",
+       "9000 W",
+       "12000 W",
+       "15000 W",
+       "18000 W",
+       "22500 W",
+       "30000 W"
+      ],
+      [
+       "Număr de MPPT",
+       "2",
+       "2",
+       "2",
+       "4",
+       "4",
+       "4",
+       "4",
+       "4"
+      ],
+      [
+       "String-uri per MPPT",
+       "1/1",
+       "1/1",
+       "1/1",
+       "1/1/1/1",
+       "1/1/1/1",
+       "1/1/1/1",
+       "1/1/1/1",
+       "1/1/1/1"
+      ],
+      [
+       "Curent maxim PV",
+       "18/18 A",
+       "18/18 A",
+       "18/18 A",
+       "18/18/18/18 A",
+       "18/18/18/18 A",
+       "18/18/18/18 A",
+       "18/18/18/18 A",
+       "18/18/18/18 A"
+      ],
+      [
+       "Intrări baterie",
+       "1",
+       "1",
+       "1",
+       "2",
+       "2",
+       "2",
+       "2",
+       "2"
+      ],
+      [
+       "Răcire",
+       "Naturală",
+       "Naturală",
+       "Naturală",
+       "Naturală",
+       "Naturală",
+       "Naturală",
+       "Ventilator",
+       "Ventilator"
+      ]
+     ]
+    },
+    {
+     "title": "Configurații de baterie",
+     "columns": [
+      "Module",
+      "Capacitate",
+      "Putere nominală baterie",
+      "Greutate (sistem complet)",
+      "Dimensiuni (L × A × Î)"
+     ],
+     "rows": [
+      [
+       "2",
+       "10,24 kWh",
+       "6000 W",
+       "154,4 kg",
+       "770 × 200 × 1300 mm"
+      ],
+      [
+       "3",
+       "15,36 kWh",
+       "9000 W",
+       "208,6 kg",
+       "770 × 200 × 1685 mm"
+      ],
+      [
+       "4",
+       "20,48 kWh",
+       "12000 W",
+       "262,8 kg",
+       "770 × 200 × 2070 mm"
+      ],
+      [
+       "5",
+       "25,60 kWh",
+       "15000 W",
+       "317 kg",
+       "2 stive: 770 × 200 × 1685 mm + 770 × 200 × 1010 mm"
+      ],
+      [
+       "6",
+       "30,72 kWh",
+       "18000 W",
+       "371,2 kg",
+       "2 stive: 770 × 200 × 1685 mm + 770 × 200 × 1395 mm"
+      ],
+      [
+       "7",
+       "35,84 kWh",
+       "21000 W",
+       "425,4 kg",
+       "2 stive: 770 × 200 × 1685 mm + 770 × 200 × 1780 mm"
+      ],
+      [
+       "8",
+       "40,96 kWh",
+       "24000 W",
+       "479,6 kg",
+       "2 stive: 770 × 200 × 2070 mm + 770 × 200 × 1780 mm"
+      ]
+     ]
+    }
+   ]
+  }
+ }
+]
